@@ -1,654 +1,8 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T13:41:55+00:00",
-  "count": 1239,
+  "generatedAt": "2026-10-31T13:43:17+00:00",
+  "count": 1102,
   "games": [
-    {
-      "id": "untitled-port",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: SLES-00460. BIOS: SCPH-5552. Known issues: Wave 3 validation limits apply. Use the complete matching Redump CUE/BIN set and the required SCPH-5552 BIOS.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/8d2bb3e3e38aecce130899813a042108.png"
-      },
-      "links": {
-        "repo": "https://github.com/Alexbeav/apocalypse-recomp",
-        "releases": "https://github.com/Alexbeav/apocalypse-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-2",
-      "title": "Untitled port",
-      "platforms": [
-        "switch"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files:",
-      "tags": [
-        "switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/db76ba9f1aadf1434c1d08a590f41fde.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-3",
-      "title": "Untitled port",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Donkey Kong 64 (USA).z64 (CRC32: D44B4FC6)",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/86f7d456aa5848c284f7940bdecdef5d.png"
-      },
-      "links": {
-        "repo": "https://gitlab.com/dk64_decomp/dk64",
-        "releases": "https://gitlab.com/dk64_decomp/dk64/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-4",
-      "title": "Untitled port",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files: Forza Motorsport 5, version 1.0.0.20",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/5ab754415b19d7115705bfbb09957881.png"
-      },
-      "links": {
-        "repo": "https://github.com/LoZazaMastro/RaceOneHub",
-        "releases": "https://github.com/LoZazaMastro/RaceOneHub/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-5",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: SCES-01050. BIOS: SCPH-5552. Known issues: Wave 3 validation limits apply. Use the complete matching Redump CUE/BIN set and the required SCPH-5552 BIOS.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/20bc9c1cba852406a058a4eb94aa2db4.png"
-      },
-      "links": {
-        "repo": "https://github.com/Alexbeav/ghost-in-the-shell-recomp",
-        "releases": "https://github.com/Alexbeav/ghost-in-the-shell-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-6",
-      "title": "Untitled port",
-      "platforms": [
-        "ps2"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Grand Theft Auto: Vice City Stories for PlayStation 2 (USA)",
-      "tags": [
-        "ps2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/c8aa48a3667e7a29486f3f978b0e0279.png"
-      },
-      "links": {
-        "repo": "https://github.com/gothamor/gta-vcs-recomp",
-        "releases": "https://github.com/gothamor/gta-vcs-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-7",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: SCUS-94227. BIOS: SCPH-1001",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/60af5cc43f067e109e9b72b05d574fb9.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/Alexbeav/medievil-recomp",
-        "releases": "https://github.com/Alexbeav/medievil-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-8",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Mega Man X3 (USA).sfc (CRC32: FA0FE671)",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/5ae425ce40914db48f393b608b35af62.png"
-      },
-      "links": {
-        "repo": "https://github.com/mstan/MegaManX3Recomp",
-        "releases": "https://github.com/mstan/MegaManX3Recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-9",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: SLES-01370 · SLES-11370. BIOS: SCPH-5552. Known issues: Wave 3 validation limits apply. Use the complete matching Redump CUE/BIN set and the required SCPH-5552 BIOS. Later-disc gameplay and disc transitions are not qualified",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/eba12c8977cdf8a9b7351c33f03d205c.png"
-      },
-      "links": {
-        "repo": "https://github.com/Alexbeav/metal-gear-solid-recomp",
-        "releases": "https://github.com/Alexbeav/metal-gear-solid-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-10",
-      "title": "Untitled port",
-      "platforms": [
-        "switch"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files:",
-      "tags": [
-        "switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/63c07e376dcf5799fc02381033f7c121.png"
-      },
-      "links": {
-        "repo": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp",
-        "releases": "https://github.com/yozander2009-stack/Metroid-Dread-Recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-11",
-      "title": "Untitled port",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files: Nagano Winter Olympics '98 (USA).z64 (CRC32: EE8288D4)",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/69a8bc6c5211274d3cd7cf6f44842a29.png"
-      },
-      "links": {
-        "repo": "https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64",
-        "releases": "https://github.com/TheGh0stShip/Nagano-Winter-Olympics-98-N64/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-12",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/dbbb8884f3d67a074c2c0ed5c0fec7e3.png"
-      },
-      "links": {
-        "repo": "https://github.com/Teraflopping/xrevive",
-        "releases": "https://github.com/Teraflopping/xrevive/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-13",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Resident Evil 2 USA",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/774e04f6693cf4322eaa645a58282fa7.png"
-      },
-      "links": {
-        "repo": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE2",
-        "releases": "https://github.com/BrazilianHobbyist/Project-RE-Visited-RE2/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-14",
-      "title": "Untitled port",
-      "developer": "davidptrssvea",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files:",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/a5043803fb976050f4c31b55a2962b8e.png"
-      },
-      "links": {
-        "repo": "https://github.com/davidptrssvea/Table-Tennis-Rockstar-PC",
-        "releases": "https://github.com/davidptrssvea/Table-Tennis-Rockstar-PC/releases"
-      },
-      "sources": [
-        "awesome-x360",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-15",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Untested",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/8270a91ca239e552633bd323d8e5ac19.png"
-      },
-      "links": {
-        "repo": "https://github.com/JesusTaylo/rumble-roses-xx-recomp",
-        "releases": "https://github.com/JesusTaylo/rumble-roses-xx-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-16",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: SLUS-00875. BIOS: SCPH-5552. Known issues: Wave 3 validation limits apply. Use the complete matching Redump CUE/BIN set and the required SCPH-5552 BIOS.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/a5a05cfb6a67ef504abc480cea798fec.png"
-      },
-      "links": {
-        "repo": "https://github.com/Alexbeav/spider-man-recomp",
-        "releases": "https://github.com/Alexbeav/spider-man-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-17",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Spyro the Dragon (USA).bin/cue (CRC32: D5E11056/639D58E5)",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/a99316b58bd2d4539e9153e24f616e6f.png"
-      },
-      "links": {
-        "repo": "https://openpete.com",
-        "releases": "https://openpete.com/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-18",
-      "title": "Untitled port",
-      "platforms": [
-        "ps2"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Star Wars: Battlefront 1 & 2 (USA) for PlayStation 2",
-      "tags": [
-        "ps2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/704d4fc6e0403892e4646352aba0b642.png"
-      },
-      "links": {
-        "repo": "https://github.com/sprucey149/openbf",
-        "releases": "https://github.com/sprucey149/openbf/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-19",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files:",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/c5279e07367ef7ba59d6e772bfd9ac5d.png"
-      },
-      "links": {
-        "repo": "https://github.com/Adoregabriel2005/mushroomrecompiled",
-        "releases": "https://github.com/Adoregabriel2005/mushroomrecompiled/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-20",
-      "title": "Untitled port",
-      "platforms": [
-        "switch"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required Files: The Legend of Zelda: Breath of the Wild Switch, version 1.8.2",
-      "tags": [
-        "switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png"
-      },
-      "links": {
-        "repo": "https://github.com/ryderclanky/BotW-Native",
-        "releases": "https://github.com/ryderclanky/BotW-Native/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-21",
-      "title": "Untitled port",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files:",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/a320fda9e385f0ee9a4fa2f695600446.png"
-      },
-      "links": {
-        "repo": "https://github.com/andrewnakas/thps64",
-        "releases": "https://github.com/andrewnakas/thps64/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-22",
-      "title": "Untitled port",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files: Ultra Street Fighter IV for Xbox 360 Manual Installation: Use extract-xiso.exe to extract the assets and place the files in the assets folder at the root of the port folder.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/7ab1a827bc0171eb24d411be78172e74.png"
-      },
-      "links": {
-        "repo": "https://github.com/BelmanteGu/UltraStreetFighterIVRecomp",
-        "releases": "https://github.com/BelmanteGu/UltraStreetFighterIVRecomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-23",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Untested",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/05d473743a62f7f3bfc3ecad84c1519c.png"
-      },
-      "links": {
-        "repo": "https://github.com/BioRhythmicStudios/warioland4",
-        "releases": "https://github.com/BioRhythmicStudios/warioland4/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-24",
-      "title": "Untitled port",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: SCUS-94351. BIOS: SCPH-5552. Known issues: Wave 3 validation limits apply. Use the complete matching Redump CUE/BIN set and the required SCPH-5552 BIOS. Keep all 12 tracks. Final-package music and later-stage checks remain u",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/6b48303c0ebaa7191a4df1e07d1a5147.png"
-      },
-      "links": {
-        "repo": "https://github.com/Alexbeav/wipeout-xl-recomp",
-        "releases": "https://github.com/Alexbeav/wipeout-xl-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "untitled-port-25",
-      "title": "Untitled port",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Free text shown in the Info panel, selectable/copyable. Required files/CRC32, supported languages, setup notes... any URL inside is auto-detected and shown as a clickable link too.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/... -- box art URL, downloaded once and cached locally"
-      },
-      "links": {
-        "repo": "https://github.com/owner/repo -- or https://gitlab.com/owner/repo, or a direct download URL (DirectUrl, no update tracking), or {\"windows\": \"...\", \"linux\": \"...\"} for per-platform, or omit \"source\" entirely for a Local/manually-managed port",
-        "releases": "https://github.com/owner/repo -- or https://gitlab.com/owner/repo, or a direct download URL (DirectUrl, no update tracking), or {\"windows\": \"...\", \"linux\": \"...\"} for per-platform, or omit \"source\" entirely for a Local/manually-managed port/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
     {
       "id": "hack-versus",
       "title": ".hack//Versus",
@@ -1200,38 +554,6 @@
       },
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "ace-combat-3-electrosphere",
-      "title": "Ace Combat 3: Electrosphere",
-      "originalTitle": "Ace Combat 3: Electrosphere",
-      "platforms": [
-        "ps1"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable PlayStation • 1999 Ace Combat 3: Electrosphere PSXRecomp Android Static recompilation of Namco&#39;s futuristic arcade flight combat title built using the PSXRecomp toolchain. Translates PlayStation MIPS code",
-      "tags": [
-        "ps1"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Ace%20Combat%203%20-%20Electrosphere%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
-        "hero": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Ace%20Combat%203%20-%20Electrosphere%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -1836,38 +1158,6 @@
       ]
     },
     {
-      "id": "animal-crossing",
-      "title": "Animal Crossing",
-      "originalTitle": "Animal Crossing",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Nintendo GameCube • 2001 Animal Crossing ACGC-Android-Port Android port based on flyngmt/ACGC-PC-Port, derived from the ac-decomp project. Incorporates mobile touchscreen interactions and UI scaling for ha",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Animal%20Crossing%20%28Nintendo%29%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Animal%20Crossing%20%28Nintendo%29%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "animal-crossing-android",
       "title": "Animal Crossing (Android)",
       "originalTitle": "Animal Crossing",
@@ -2147,40 +1437,6 @@
       ]
     },
     {
-      "id": "apocalypse-project-repocalypse",
-      "title": "Apocalypse (Project Repocalypse)",
-      "originalTitle": "Apocalypse",
-      "year": 1998,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Activision",
-      "portType": "source-port",
-      "status": "beta",
-      "description": "Apocalypse is a third-person shooter platform video game released for the PlayStation, developed by Neversoft Entertainment and published by Activision in 1998. It features actor Bruce Willis, who provides the likeness and voice for the main character, Trey Kincaid.",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Apocalypse%20(Europe).png"
-      },
-      "links": {
-        "repo": "https://github.com/MustafaSamer93/Apocalypse-PC-Native-Port",
-        "releases": "https://github.com/MustafaSamer93/Apocalypse-PC-Native-Port/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "apotris",
       "title": "Apotris",
       "originalTitle": "Apotris",
@@ -2326,40 +1582,6 @@
         "releases": "https://github.com/Alexbeav/armored-core-project-phantasma-recomp/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "astral-chain-recomp-mac-ac-recomp",
-      "title": "Astral Chain (recomp, Mac: AC-Recomp)",
-      "originalTitle": "Astral Chain",
-      "year": 2019,
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "developer": "Nintendo",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "Astral Chain is a 2019 action-adventure game developed by PlatinumGames and published by Nintendo for the Nintendo Switch. It was directed by Takahisa Taura, who was previously lead game designer for Nier: Automata, under supervision by Devil May Cry and Bayonetta series creator Hideki Kamiya, and character designs from manga artist Masakazu Katsura.",
-      "tags": [
-        "Nintendo Switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://openportsgames.com/covers/generated/astral-chain.svg"
-      },
-      "links": {
-        "repo": "https://github.com/swaymun/AC-Recomp",
-        "releases": "https://github.com/swaymun/AC-Recomp/releases"
-      },
-      "sources": [
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -2908,38 +2130,6 @@
       ]
     },
     {
-      "id": "banjo-tooie",
-      "title": "Banjo-Tooie",
-      "originalTitle": "Banjo-Tooie",
-      "platforms": [
-        "n64"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo 64 • 2000 Banjo-Tooie Tooie Recompiled Native Banjo-Tooie port for Android ARM64, built with N64Recomp and the RT64 renderer. Floating touch joystick and N64 buttons, controller support and verified s",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Banjo-Tooie%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Banjo-Tooie%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "banjorecomp-android",
       "title": "BanjoRecomp Android",
       "originalTitle": "BanjoRecomp Android",
@@ -3179,38 +2369,6 @@
       ]
     },
     {
-      "id": "battletanx-global-assault",
-      "title": "BattleTanx: Global Assault",
-      "originalTitle": "BattleTanx: Global Assault",
-      "platforms": [
-        "n64"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo 64 • 1999 BattleTanx: Global Assault BattleTanx Decomp &amp; Port Constructed from a 100% complete Nintendo 64 decompilation by TheGh0stShip with community Android builds. Brings 3DO&#39;s vehicular t",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/BattleTanx%20-%20Global%20Assault%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/BattleTanx%20-%20Global%20Assault%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "battletanx-global-assault-n64recomp",
       "title": "BattleTanx: Global Assault (N64Recomp)",
       "originalTitle": "BattleTanx: Global Assault",
@@ -3424,38 +2582,6 @@
       ]
     },
     {
-      "id": "blinx-2-masters-of-time-and-space",
-      "title": "Blinx 2: Masters of Time & Space",
-      "originalTitle": "Blinx 2: Masters of Time &amp; Space",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Original Xbox • 2004 Blinx 2: Masters of Time &amp; Space blinx2-recomp Static recompilation effort by apexJCL using Original Xbox recompilation toolchains to bring Artoon&#39;s time- and space-bending act",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Blinx%202%20-%20Masters%20of%20Time%20%26%20Space%20%28USA%2C%20Japan%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Blinx%202%20-%20Masters%20of%20Time%20%26%20Space%20%28USA%2C%20Japan%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "blood-omen-legacy-of-kain",
       "title": "Blood Omen: Legacy of Kain",
       "portType": "unknown",
@@ -3607,38 +2733,6 @@
       ]
     },
     {
-      "id": "blue-dragon",
-      "title": "Blue Dragon",
-      "originalTitle": "Blue Dragon",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Xbox 360 • 2006 Blue Dragon BlueDroid Android port of Zolaware&#39;s re:Blue, the static recompilation of Blue Dragon. Vulkan rendering, touch overlay and controller support, unlocked frame rates and save-",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://images.launchbox-app.com/5541c8b2-f13d-411b-b728-879fe1a8f4c6.jpg",
-        "hero": "https://images.launchbox-app.com/5541c8b2-f13d-411b-b728-879fe1a8f4c6.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "blue-dragon-android",
       "title": "Blue Dragon (Android)",
       "originalTitle": "Blue Dragon",
@@ -3771,32 +2865,6 @@
       "license": "GPL-3.0",
       "sources": [
         "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "bomberman-64-the-second-attack",
-      "title": "Bomberman 64: The Second Attack",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Required files: Bomberman 64 - The Second Attack! (USA).z64 (CRC32: 57550007)",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/f46c6cef80babb6e47f4c399e178d059.png"
-      },
-      "sources": [
         "ports-launcher"
       ]
     },
@@ -4014,32 +3082,6 @@
       ]
     },
     {
-      "id": "buck-bumble",
-      "title": "Buck Bumble",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Download and install the game in Game folder (Library/project-bumble).",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://cdn2.steamgriddb.com/grid/8996151753255bb91316417afd0badc3.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "buckshot-roulette",
       "title": "Buckshot Roulette",
       "originalTitle": "Buckshot Roulette",
@@ -4151,38 +3193,6 @@
       ]
     },
     {
-      "id": "buffy-the-vampire-slayer-chaos-bleeds",
-      "title": "Buffy the Vampire Slayer: Chaos Bleeds",
-      "originalTitle": "Buffy the Vampire Slayer: Chaos Bleeds",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Original Xbox • 2003 Buffy the Vampire Slayer: Chaos Bleeds Chaos Bleeds PC &amp; Android Port Native port of the 2003 Xbox game, translated to C with xboxrecomp. The Android build has touch controls, controll",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Buffy%20the%20Vampire%20Slayer%20-%20Chaos%20Bleeds%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Buffy%20the%20Vampire%20Slayer%20-%20Chaos%20Bleeds%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "buffy-the-vampire-slayer-chaos-bleeds-android",
       "title": "Buffy the Vampire Slayer: Chaos Bleeds (Android)",
       "originalTitle": "Buffy the Vampire Slayer: Chaos Bleeds",
@@ -4215,38 +3225,6 @@
         "awesome-android-ports",
         "openportsgames",
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "bully-anniversary-edition",
-      "title": "Bully: Anniversary Edition",
-      "originalTitle": "Bully: Anniversary Edition",
-      "platforms": [
-        "ps2"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable PS2 / Xbox 360 • 2006 Bully: Anniversary Edition Official Rockstar Games Port Complete portable port including all Scholarship Edition missions, high-resolution textures, dynamic lighting, physical controller",
-      "tags": [
-        "ps2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Bully%20(USA).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Bully%20(USA).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -4506,70 +3484,6 @@
           "url": "https://apkvision.org/games/action/call-of-duty-4-modern-warfare-134963/"
         }
       ],
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "call-of-duty-black-ops-ii",
-      "title": "Call of Duty: Black Ops II",
-      "originalTitle": "Call of Duty: Black Ops II",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PC • 2012 Call of Duty: Black Ops II T6 Requiem Native ARM64 Android port of Black Ops II&#39;s Zombies and Multiplayer, using DXVK Arm. Crossplay with Wii U and Switch players. The repo only hosts APK rel",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/202970/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/202970/library_600x900.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "call-of-duty-modern-warfare-2",
-      "title": "Call of Duty: Modern Warfare 2",
-      "originalTitle": "Call of Duty: Modern Warfare 2",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Xbox 360 • 2009 Call of Duty: Modern Warfare 2 mw2-android (OpenPort-Labs) OpenPort-Labs project executing the 2009 MW2 campaign natively on ARM64 hardware via static binary recompilation. Features automat",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10180/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10180/header.jpg"
-      },
       "stars": 1850,
       "sources": [
         "droid-recomp"
@@ -5445,38 +4359,6 @@
       ]
     },
     {
-      "id": "classic-tomb-raider-i-and-ii",
-      "title": "Classic Tomb Raider I & II",
-      "originalTitle": "Classic Tomb Raider I &amp; II",
-      "platforms": [
-        "ps1"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable PlayStation / PC / Saturn • 1996 Classic Tomb Raider I &amp; II OpenLara &amp; TRX Classic Tomb Raider engine rewrite in C99. Runs Lara Croft&#39;s original adventures at silky-smooth 60+ FPS with advanced mod",
-      "tags": [
-        "ps1"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/224960/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/224960/library_600x900.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "clayfighter-6313",
       "title": "ClayFighter 63⅓",
       "originalTitle": "ClayFighter 63⅓",
@@ -5513,38 +4395,6 @@
     },
     {
       "id": "colin-mcrae-rally-2-0",
-      "title": "Colin McRae Rally 2.0",
-      "originalTitle": "Colin McRae Rally 2.0",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PC • 2000 Colin McRae Rally 2.0 OpenCMR2 A work-in-progress native port built on the CMR2Decomp decompilation. DirectX and Bink are replaced with SDL3 and an SDL GPU (Vulkan) renderer, and the physics are",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1211480/header.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1211480/header.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "colin-mcrae-rally-2-0-2",
       "title": "Colin McRae Rally 2.0",
       "portType": "unknown",
       "status": "unknown",
@@ -5586,7 +4436,7 @@
         "supported": true,
         "minAndroid": null,
         "abis": [],
-        "requiresGameFiles": "unknown"
+        "requiresGameFiles": "none"
       },
       "artwork": {
         "accent": "#57D9A3",
@@ -5599,8 +4449,7 @@
       "license": "GPL-3.0",
       "sources": [
         "awesome-android-ports",
-        "openportsgames",
-        "ports-launcher"
+        "openportsgames"
       ]
     },
     {
@@ -5646,32 +4495,6 @@
       "links": {
         "repo": "https://github.com/Alexbeav/colony-wars-red-sun-recomp",
         "releases": "https://github.com/Alexbeav/colony-wars-red-sun-recomp/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "command-and-conquer",
-      "title": "Command & Conquer",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Download the file from the Game website and unzip it into the Game folder (Library/CNC3D_Source).",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://cdn2.steamgriddb.com/grid/9cf6243f1d57f49fdfb52985f16eb9d0.png"
       },
       "sources": [
         "ports-launcher"
@@ -8609,25 +7432,6 @@
       ]
     },
     {
-      "id": "donkey-kong-country-2-diddy-s-kong-quest",
-      "title": "Donkey Kong Country 2: Diddy's Kong Quest",
-      "portType": "unknown",
-      "status": "unknown",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/5815383dbef0d664c7420eecc4303ae9.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "doom",
       "title": "Doom",
       "originalTitle": "Doom",
@@ -8782,38 +7586,6 @@
         }
       ],
       "stars": 320,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "doom-3-quake-4-and-prey-2006",
-      "title": "DOOM 3, Quake 4 & Prey (2006)",
-      "originalTitle": "DOOM 3, Quake 4 &amp; Prey",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable PC • 2004 DOOM 3, Quake 4 &amp; Prey (2006) idTech4A++ idTech4A++ runs id Tech 4 games on Android with OpenGL ES and Vulkan: DOOM 3, Quake 4 and Prey (2006), plus DOOM 3 BFG, The Dark Mod, RealRTCW and more. T",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/208200/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/208200/library_600x900.jpg"
-      },
-      "stars": 1850,
       "sources": [
         "droid-recomp"
       ]
@@ -8982,38 +7754,6 @@
       ]
     },
     {
-      "id": "doom-doom-ii-heretic-hexen",
-      "title": "Doom, Doom II, Heretic, Hexen",
-      "originalTitle": "Doom, Doom II, Heretic, Hexen",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable PC • 1993 Doom, Doom II, Heretic, Hexen Delta Touch (10 id Tech 1 Engines) Premium port suite packaging 10 industry-standard Doom engines (GZDoom, LZDoom, PrBoom+, Chocolate Doom, Crispy Doom, Doom 64 EX, and",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2280/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2280/library_600x900.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "dora64-3",
       "title": "Dora64-3",
       "originalTitle": "Doraemon 3: Nobita no Machi SOS!",
@@ -9086,38 +7826,6 @@
         }
       ],
       "stars": 320,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "doraemon-n64-series",
-      "title": "Doraemon N64 Series",
-      "originalTitle": "Doraemon N64 Series",
-      "platforms": [
-        "n64"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo 64 • 1997 Doraemon N64 Series Dora64 &amp; Dora64-3 Native recompilation and ROM-based source generation projects by citrongames bringing the Nintendo 64 3D platformer adventures of Doraemon (Nobita t",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Doraemon%20-%20Nobita%20to%203tsu%20no%20Seireiseki%20%28Japan%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Doraemon%20-%20Nobita%20to%203tsu%20no%20Seireiseki%20%28Japan%29.png"
-      },
-      "stars": 1850,
       "sources": [
         "droid-recomp"
       ]
@@ -9460,38 +8168,6 @@
         "awesome-x360",
         "openportsgames",
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "dragon-ball-z-budokai-tenkaichi-3",
-      "title": "Dragon Ball Z: Budokai Tenkaichi 3",
-      "originalTitle": "Dragon Ball Z: Budokai Tenkaichi 3",
-      "platforms": [
-        "ps2"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PlayStation 2 • 2007 Dragon Ball Z: Budokai Tenkaichi 3 Tenkaichi3DecompAndroid Native ARM64 Android port based on Tenkaichi3Decomp. Runs menus and full 3D arena battles natively at full framerate on Snapd",
-      "tags": [
-        "ps2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Budokai%20Tenkaichi%203%20(USA)%20(En%2CJa).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Dragon%20Ball%20Z%20-%20Budokai%20Tenkaichi%203%20(USA)%20(En%2CJa).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -10097,32 +8773,6 @@
       ]
     },
     {
-      "id": "duke-nukem-zero-hour",
-      "title": "Duke Nukem: Zero Hour",
-      "platforms": [
-        "n64"
-      ],
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files: Duke Nukem - Zero Hour (USA).z64 (CRC32: 9A3258D7) Check for updates manually at https://dnzh-overclocked.com/ Windows: Portable saves : portable.txt in root folder.",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/867b40a424378bfa56d7800e23f93070.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "dune-ii",
       "title": "Dune II",
       "originalTitle": "Dune II",
@@ -10306,38 +8956,6 @@
       "license": "GPL-3.0",
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "dynasty-warriors-5",
-      "title": "Dynasty Warriors 5",
-      "originalTitle": "Dynasty Warriors 5",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Original Xbox • 2005 Dynasty Warriors 5 DW5-Android Unofficial Android port of the Original Xbox Dynasty Warriors 5, statically recompiled with the XboxXBE-Recomp SDK. Vulkan rendering, SDL3 input and audi",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Dynasty%20Warriors%205%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Dynasty%20Warriors%205%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -10741,41 +9359,6 @@
       "stars": 320,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "eternal-darkness-recomp",
-      "title": "Eternal Darkness Recomp",
-      "originalTitle": "Eternal Darkness: Sanity's Requiem",
-      "year": 2002,
-      "platforms": [
-        "GameCube"
-      ],
-      "developer": "Nintendo",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Eternal Darkness: Sanity's Requiem is a 2002 horror game developed by Silicon Knights and published by Nintendo for the GameCube. It was produced and directed by Denis Dyack. The game follows the story of several characters across a period of two millennia and four different locations on Earth, as they contend with an ancient evil who seeks to enslave humanity. The gameplay distinguishes itself wi",
-      "tags": [
-        "GameCube"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/8/8d/Eternal_Darkness_box.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/griches/EternalDarknessRecomp",
-        "releases": "https://github.com/griches/EternalDarknessRecomp/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -11192,26 +9775,6 @@
       ]
     },
     {
-      "id": "fallout-2-community-edition-2",
-      "title": "Fallout 2 Community Edition",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Purchase your copy on GOG, Steam or Epic Games. https://www.gog.com/game/fallout_2 https://store.steampowered.com/app/38410 https://store.epicgames.com/p/fallout-2",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://cdn2.steamgriddb.com/grid/eb8481c3b664b77b5303f490063a0908.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "fallout-community-edition",
       "title": "Fallout Community Edition",
       "originalTitle": "Fallout",
@@ -11329,40 +9892,6 @@
       "stars": 320,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "fatal-frame-mikupan",
-      "title": "Fatal Frame (MikuPan)",
-      "originalTitle": "Fatal Frame",
-      "year": 2001,
-      "platforms": [
-        "PlayStation 2"
-      ],
-      "developer": "Tecmo",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Fatal Frame, titled Zero in Japan and Project Zero in Europe and Australia, is a Japanese survival horror video game series that was created, published, and developed by Koei Tecmo. Debuting in 2001 with the first entry in the series for the PlayStation 2, the series consists of five main entries. The series is set in 1980s Japan, with each entry focusing on a location beset by hostile supernatura",
-      "tags": [
-        "PlayStation 2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/b/b7/Fatal_Frame_Coverart.png"
-      },
-      "links": {
-        "repo": "https://github.com/Mikompilation/MikuPan",
-        "releases": "https://github.com/Mikompilation/MikuPan/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -11807,38 +10336,6 @@
       ]
     },
     {
-      "id": "final-fantasy-tactics-advance",
-      "title": "Final Fantasy Tactics Advance",
-      "originalTitle": "Final Fantasy Tactics Advance",
-      "platforms": [
-        "gba"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Game Boy Advance • 2003 Final Fantasy Tactics Advance FFTARecomp Static recompilation of Square&#39;s tactical RPG for PC and Android by Jorge262007. Version 3.0 delivers a dedicated native Android build along",
-      "tags": [
-        "gba"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Final%20Fantasy%20Tactics%20Advance%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Final%20Fantasy%20Tactics%20Advance%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "final-fantasy-tactics-recompiled",
       "title": "Final Fantasy Tactics Recompiled",
       "originalTitle": "Final Fantasy Tactics",
@@ -11928,38 +10425,6 @@
       "sources": [
         "openportsgames",
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "fire-emblem-the-sacred-stones",
-      "title": "Fire Emblem: The Sacred Stones",
-      "originalTitle": "Fire Emblem: The Sacred Stones",
-      "platforms": [
-        "gba"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Game Boy Advance • 2004 Fire Emblem: The Sacred Stones SacredStonesRecomp Static recompilation of Fire Emblem: The Sacred Stones for Windows and Android ARM64. Playable into normal gameplay, with direct touch",
-      "tags": [
-        "gba"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Fire%20Emblem%20-%20The%20Sacred%20Stones%20%28USA%2C%20Australia%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -12131,41 +10596,6 @@
       "stars": 1850,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "forza-horizon-1-reimagined",
-      "title": "Forza Horizon 1: ReImagined",
-      "originalTitle": "Forza Horizon",
-      "year": 2012,
-      "platforms": [
-        "Xbox 360"
-      ],
-      "developer": "Xbox Game Studios",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Forza Horizon is a 2012 racing video game developed by Playground Games and published by Microsoft Studios for the Xbox 360 on 23 October 2012. The game is the fifth instalment of the Forza series, having originally spun-off from Turn 10 Studios-developed Forza Motorsport titles. Taking place during the fictitious Horizon Festival, a street racing event, the player's aim is to progress via winning",
-      "tags": [
-        "Xbox 360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/7/77/Forza_Horizon_boxart.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/Dyotson/ForzaHorizon1-ReImagined",
-        "releases": "https://github.com/Dyotson/ForzaHorizon1-ReImagined/releases"
-      },
-      "license": "MIT",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -13466,41 +11896,6 @@
       ]
     },
     {
-      "id": "god-hand",
-      "title": "God Hand",
-      "originalTitle": "God Hand",
-      "year": 2006,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Capcom",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "God Hand is a 2006 beat 'em up game developed by Clover Studio and published by Capcom for the PlayStation 2. It was released in Japan and North America in 2006, and in 2007 for PAL territories. It was re-released for the PlayStation 3 as a PS2 Classics downloadable game on the PlayStation Network on October 4, 2011. The game was directed by Shinji Mikami, who desired to create the game for hardco",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978970/header.jpg?t=1549857430"
-      },
-      "links": {
-        "repo": "https://github.com/LasVola/godhand-recomp",
-        "releases": "https://github.com/LasVola/godhand-recomp/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "god-hand-recomp",
       "title": "God Hand Recomp",
       "originalTitle": "God Hand",
@@ -13617,73 +12012,6 @@
       },
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "god-of-war-ps2-pc",
-      "title": "God of War (PS2) PC",
-      "originalTitle": "God of War",
-      "year": 2005,
-      "platforms": [
-        "PlayStation 2"
-      ],
-      "developer": "SCE Santa Monica Studio",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "God of War is a 2005 action-adventure game developed by Santa Monica Studio and published by Sony Computer Entertainment (SCE). First released for the PlayStation 2 on March 22, 2005, the game is the first installment in the God of War series and the fourth chronologically. Loosely based on Greek mythology, it is set in ancient Greece with vengeance as its central motif. The player controls the pr",
-      "tags": [
-        "PlayStation 2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/b/b5/God_of_War_%282005%29_cover.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/YYOzcan/Tobiichi-Port",
-        "releases": "https://github.com/YYOzcan/Tobiichi-Port/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "god-of-war-iii-remastered",
-      "title": "God of War III Remastered",
-      "originalTitle": "God of War III Remastered",
-      "platforms": [
-        "ps3"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable PlayStation 4 • 2015 God of War III Remastered gow3_android Native Android port of Santa Monica Studio&#39;s hack-and-slash epic by zFitness, translating PS4 system services and rendering pipelines to mobile V",
-      "tags": [
-        "ps3"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://images.launchbox-app.com//7ffddf98-a398-4bf1-98fc-bad1d833c70d.png",
-        "hero": "https://images.launchbox-app.com//7ffddf98-a398-4bf1-98fc-bad1d833c70d.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -13967,38 +12295,6 @@
       "sources": [
         "droid-recomp",
         "openportsgames"
-      ]
-    },
-    {
-      "id": "golden-sun",
-      "title": "Golden Sun",
-      "originalTitle": "Golden Sun",
-      "platforms": [
-        "gba"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Game Boy Advance • 2001 Golden Sun gsrandroid / GSRecomp Android Native Android port of Shmargus&#39;s GSRecomp built atop the Descore mobile shell by wootbeer (DarkDigital). Patches and prepares the ROM direc",
-      "tags": [
-        "gba"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Golden%20Sun%20(USA%2C%20Europe).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Golden%20Sun%20(USA%2C%20Europe).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -14703,26 +12999,6 @@
     },
     {
       "id": "half-life",
-      "title": "Half Life",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Copy valve directory to a folder named xash in the Internal storage. Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/79c9b8bb1e04c2b1aaa4e28092959b6a.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "half-life-2",
       "title": "Half-Life",
       "originalTitle": "Half-Life",
       "platforms": [
@@ -15723,38 +13999,6 @@
       ]
     },
     {
-      "id": "hollow-knight",
-      "title": "Hollow Knight",
-      "originalTitle": "Hollow Knight",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PC • 2017 Hollow Knight Community Unity ARM64 Port Native Unity engine build using PC asset bundles and decompiled C# scripts compiled to ARM64 IL2CPP. Full touch overlay, gamepad support, high resolution.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/header.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "hollow-knight-android",
       "title": "Hollow Knight (Android)",
       "originalTitle": "Hollow Knight",
@@ -15829,26 +14073,6 @@
       "stars": 320,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "hollow-knight-silksong-2",
-      "title": "Hollow Knight: Silksong",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "If you'd rather not sign in, download the game's Linux depot on a PC with DepotDownloader. The Linux files are the ones the port is built from; the Windows (1030301) and macOS (1030302) depots will not do, and the app rejects them: DepotDow",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/48b505846f30602aaff7e2d336720e6d.jpg"
-      },
-      "sources": [
-        "ports-launcher"
       ]
     },
     {
@@ -16882,38 +15106,6 @@
       ]
     },
     {
-      "id": "jak-and-daxter-the-precursor-legacy",
-      "title": "Jak and Daxter: The Precursor Legacy",
-      "originalTitle": "Jak and Daxter: The Precursor Legacy",
-      "platforms": [
-        "ps2"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PlayStation 2 • 2001 Jak and Daxter: The Precursor Legacy Precursor An unofficial Android fork of OpenGOAL, the Jak and Daxter decompilation. It adds an ARM64 back end to OpenGOAL&#39;s compiler, so the ga",
-      "tags": [
-        "ps2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%202/Named_Boxarts/Jak%20and%20Daxter%20-%20The%20Precursor%20Legacy%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png",
-        "hero": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%202/Named_Boxarts/Jak%20and%20Daxter%20-%20The%20Precursor%20Legacy%20%28Europe%29%20%28En%2CJa%2CFr%2CDe%2CEs%2CIt%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "jazz-2-ressurection",
       "title": "Jazz 2 Ressurection",
       "originalTitle": "Jazz Jackrabbit 2",
@@ -17052,40 +15244,6 @@
         "releases": "https://github.com/TK22-26/JetForceGemini-Recomp/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "jet-moto-anthology-recompiled",
-      "title": "Jet Moto Anthology Recompiled",
-      "originalTitle": "Jet Moto",
-      "year": 1996,
-      "platforms": [
-        "PlayStation"
-      ],
-      "developer": "Sony Computer Entertainment",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Jet Moto is a 1996 racing video game developed by Sony Interactive Studios America and SingleTrac and published by Sony Computer Entertainment for the PlayStation. It was released in North America on October 31, 1996; in 1997 for Europe in February and Japan on August 7. A Windows version was released only in North America on November 13, 1997, by Sony Interactive Studios America. Jet Moto was mad",
-      "tags": [
-        "PlayStation"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Jet%20Moto%20(USA).png"
-      },
-      "links": {
-        "repo": "https://github.com/GTTeancum/Jet-Moto-Anthology",
-        "releases": "https://github.com/GTTeancum/Jet-Moto-Anthology/releases"
-      },
-      "sources": [
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -17682,41 +15840,6 @@
       "sources": [
         "awesome-android-ports",
         "openportsgames"
-      ]
-    },
-    {
-      "id": "kingdom-hearts-chain-of-memories-decompilation",
-      "title": "Kingdom Hearts: Chain of Memories Decompilation",
-      "originalTitle": "Kingdom Hearts: Chain of Memories",
-      "year": 2004,
-      "platforms": [
-        "Game Boy Advance"
-      ],
-      "developer": "Square Enix",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Kingdom Hearts: Chain of Memories is a 2004 action role-playing game developed by Square Enix and Jupiter and published by Square Enix in collaboration with Disney Interactive for the Game Boy Advance (GBA). The second game in the Kingdom Hearts series, it is a direct sequel to Kingdom Hearts whose ending is set about a year before the events of Kingdom Hearts II. Chain of Memories follows Sora an",
-      "tags": [
-        "Game Boy Advance"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Kingdom%20Hearts%20-%20Chain%20of%20Memories%20(USA).png"
-      },
-      "links": {
-        "repo": "https://github.com/Pheenoh/khcom",
-        "releases": "https://github.com/Pheenoh/khcom/releases"
-      },
-      "license": "CC0-1.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -18755,8 +16878,7 @@
       "sources": [
         "awesome-android-ports",
         "awesome-x360",
-        "openportsgames",
-        "ports-launcher"
+        "openportsgames"
       ]
     },
     {
@@ -18787,38 +16909,6 @@
       },
       "sources": [
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "luigi-s-mansion",
-      "title": "Luigi's Mansion",
-      "originalTitle": "Luigi&#39;s Mansion",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Nintendo GameCube • 2001 Luigi&#39;s Mansion Luigi&#39;s Mansion Recomp Android Android port of rob646464&#39;s Luigi&#39;s Mansion Recompiled by MsBunnana and JayElDragon. V2.0 adds refresh-rate matching",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Luigi%27s%20Mansion%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Luigi%27s%20Mansion%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29%20%28Rev%201%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -19136,58 +17226,6 @@
       ]
     },
     {
-      "id": "mario-kart-ds",
-      "title": "Mario Kart DS",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Languages: English.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://cdn2.steamgriddb.com/grid/7935ca94dd2471ca7c4041496390bdc9.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "mario-kart-wii",
-      "title": "Mario Kart Wii",
-      "originalTitle": "Mario Kart Wii",
-      "platforms": [
-        "wii"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo Wii • 2008 Mario Kart Wii DriftDroid Native ARM64 Android port of Mario Kart Wii and the Retro Rewind community mod pack built via WiiCompiled static recompilation by dorPXP. Bypasses emulation to run",
-      "tags": [
-        "wii"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Wii/Named_Boxarts/Kustom%20Mario%20Kart%20Wii%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Wii/Named_Boxarts/Kustom%20Mario%20Kart%20Wii%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "mario-kart-double-dash",
       "title": "Mario Kart: Double Dash!!",
       "platforms": [
@@ -19250,38 +17288,6 @@
       "sources": [
         "openportsgames",
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "mario-party-4",
-      "title": "Mario Party 4",
-      "originalTitle": "Mario Party 4",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo GameCube • 2002 Mario Party 4 Party Board Party Board is a native port of Mario Party 4 built on the GameCube decompilation, for PC, phones and Meta Quest. It adds online play for up to four players,",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Mario%20Party%204%20%28USA%29%20%28Rev%201%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Mario%20Party%204%20%28USA%29%20%28Rev%201%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -19667,41 +17673,6 @@
       "sources": [
         "awesome-android-ports",
         "openportsgames"
-      ]
-    },
-    {
-      "id": "medievil-2019-pc",
-      "title": "MediEvil (2019) PC",
-      "originalTitle": "MediEvil",
-      "year": 1998,
-      "platforms": [
-        "PlayStation 4"
-      ],
-      "developer": "Other Ocean Interactive",
-      "portType": "source-port",
-      "status": "beta",
-      "description": "MediEvil is a 1998 action-adventure game developed and published by Sony Computer Entertainment for the PlayStation. The game is set in the medieval Kingdom of Gallowmere and centers around the charlatan protagonist, Sir Daniel Fortesque, as he makes an attempt to stop antagonist Zarok's invasion of the kingdom whilst simultaneously redeeming himself.",
-      "tags": [
-        "PlayStation 4"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/d/d3/Medievil_cover.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/bc160201983/medievil_2019_pc_port",
-        "releases": "https://github.com/bc160201983/medievil_2019_pc_port/releases"
-      },
-      "license": "GPL-2.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -20631,38 +18602,6 @@
       ]
     },
     {
-      "id": "midnight-club-los-angeles",
-      "title": "Midnight Club: Los Angeles",
-      "originalTitle": "Midnight Club: Los Angeles",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "unknown",
-      "description": "⚙ In Dev Xbox 360 • 2008 Midnight Club: Los Angeles mcla-recomp-android-g An early Android port of the Xbox 360 Midnight Club: Los Angeles, recompiled with ReXGlue. The open beta reaches car selection, but the developer",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://images.launchbox-app.com//3dfb7dc7-5738-4d9c-ba51-368104cab6b3.png",
-        "hero": "https://images.launchbox-app.com//3dfb7dc7-5738-4d9c-ba51-368104cab6b3.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "might-and-magic-vi-viii",
       "title": "Might and Magic VI-VIII",
       "originalTitle": "Might and Magic VI-VIII",
@@ -20730,26 +18669,6 @@
       "links": {
         "repo": "https://github.com/ludovic111/horizon",
         "releases": "https://github.com/ludovic111/horizon/releases"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "minecraft-java",
-      "title": "Minecraft Java",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/ee897a8699b37568c5c8dd72f78c2bf1.png"
       },
       "sources": [
         "ports-launcher"
@@ -21194,38 +19113,6 @@
       ]
     },
     {
-      "id": "monster-hunter-tri",
-      "title": "Monster Hunter Tri",
-      "originalTitle": "Monster Hunter Tri",
-      "platforms": [
-        "wii"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Nintendo Wii • 2009 Monster Hunter Tri OceanTriRecomp Android Android ARM64 fork of krisztsa&#39;s OceanTriRecomp, a static recompilation of Monster Hunter Tri. Adds touch controls and online play in Loc L",
-      "tags": [
-        "wii"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346500/header.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1346500/header.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "monster-rancher",
       "title": "Monster Rancher",
       "portType": "unknown",
@@ -21524,38 +19411,6 @@
         }
       ],
       "stars": 3670,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "mortal-kombat-shaolin-monks",
-      "title": "Mortal Kombat: Shaolin Monks",
-      "originalTitle": "Mortal Kombat: Shaolin Monks",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Original Xbox • 2005 Mortal Kombat: Shaolin Monks ShaolinMonks-Android Unofficial Android port of the Original Xbox version, statically recompiled to ARM64 with XboxXBE-Recomp. Vulkan rendering, a full on-",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Mortal%20Kombat%20-%20Shaolin%20Monks%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Mortal%20Kombat%20-%20Shaolin%20Monks%20%28USA%29.png"
-      },
-      "stars": 1850,
       "sources": [
         "droid-recomp"
       ]
@@ -23245,26 +21100,6 @@
       ]
     },
     {
-      "id": "nethack-2",
-      "title": "NetHack",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Untested",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/815e49f5c35ed6d0c401931492a9229b.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "nethack-android",
       "title": "NetHack (Android)",
       "originalTitle": "NetHack",
@@ -23331,38 +21166,6 @@
       "sources": [
         "openportsgames",
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "new-super-mario-bros-wii",
-      "title": "New Super Mario Bros. Wii",
-      "originalTitle": "New Super Mario Bros. Wii",
-      "platforms": [
-        "wii"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo Wii • 2009 New Super Mario Bros. Wii NSMB Wii Multiplayer Recompilation Static recompilation of New Super Mario Bros. Wii to native ARM64, built on WiiCompiled. Runs at a full 60 fps on a Snapdragon 6",
-      "tags": [
-        "wii"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Wii/Named_Boxarts/New%20Super%20Mario%20Bros.%20Wii%20%28Asia%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Wii/Named_Boxarts/New%20Super%20Mario%20Bros.%20Wii%20%28Asia%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -23539,41 +21342,6 @@
         "releases": "https://github.com/Alexbeav/nightmare-creatures-ii-recomp/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "ninja-s-dawn",
-      "title": "Ninja's Dawn",
-      "originalTitle": "Ninja Gaiden II",
-      "year": 2008,
-      "platforms": [
-        "Xbox 360"
-      ],
-      "developer": "Microsoft Game Studios",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Ninja Gaiden II is a 2008 action-adventure game developed by Team Ninja and published by Microsoft Game Studios for the Xbox 360. It was the last game directed by Tomonobu Itagaki before his departure from Tecmo. An alternative version, Ninja Gaiden Sigma 2, was released by Tecmo Koei for the PlayStation 3 in 2009, and for the PlayStation Vita in 2013. A remaster, Ninja Gaiden 2 Black, was release",
-      "tags": [
-        "Xbox 360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/4/4f/Ninja_Gaiden_II.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project",
-        "releases": "https://github.com/TheSaltTrader/Ninja-s-Dawn---A-Ninja-Gaiden-2-Recompilation-Project/releases"
-      },
-      "license": "MIT",
-      "sources": [
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -24664,40 +22432,6 @@
       ]
     },
     {
-      "id": "outrun-2006-coast-2-coast-outrun2-decomp",
-      "title": "OutRun 2006: Coast 2 Coast (outrun2-decomp)",
-      "originalTitle": "OutRun 2006: Coast 2 Coast",
-      "year": 2006,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Unknown",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "OutRun 2006: Coast 2 Coast, released as OutRun 2 SP in Japan, is a 2006 racing video game developed by Sumo Digital and published by Sega for home consoles. The game is an updated combination of Outrun 2 and Outrun 2 SP that includes all stages from previous versions of Outrun 2, plus challenges and local and internet multiplayer.",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://openportsgames.com/covers/generated/outrun-2006-coast-2-coast.svg"
-      },
-      "links": {
-        "repo": "https://github.com/r4dius/outrun2-decomp",
-        "releases": "https://github.com/r4dius/outrun2-decomp/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "p-t",
       "title": "P.T.",
       "originalTitle": "P.T.",
@@ -24833,38 +22567,6 @@
       ]
     },
     {
-      "id": "paper-mario",
-      "title": "Paper Mario",
-      "originalTitle": "Paper Mario",
-      "platforms": [
-        "n64"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "unknown",
-      "description": "⚙ In Dev Nintendo 64 • 2000 Paper Mario PaperBoat Android HarbourMasters&#39; PaperBoat is a native Paper Mario port on libultraship for Windows, Mac and Linux. This fork adds Android project files, but there&#39;s no An",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Paper%20Mario%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Paper%20Mario%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "paper-mario-recut",
       "title": "Paper Mario ReCut",
       "originalTitle": "Paper Mario",
@@ -24971,40 +22673,6 @@
     {
       "id": "parasite-eve",
       "title": "Parasite Eve",
-      "originalTitle": "Parasite Eve",
-      "year": 1998,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Square",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Parasite Eve is a 1998 role-playing video game developed and published by Square. The game is a sequel to the novel Parasite Eve, written by Hideaki Sena; it is the first game in the Parasite Eve video game series. The story follows New York City police officer Aya Brea over a six-day span in 1997 as she attempts to stop Eve, a woman who plans to destroy the human race through spontaneous human co",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Parasite%20Eve%20(Japan).png"
-      },
-      "links": {
-        "repo": "https://github.com/khasinski/parasite-eve-decomp",
-        "releases": "https://github.com/khasinski/parasite-eve-decomp/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "parasite-eve-2",
-      "title": "Parasite Eve",
       "portType": "unknown",
       "status": "unknown",
       "description": "Required files: Parasite Eve (USA)",
@@ -25023,40 +22691,6 @@
         "releases": "https://github.com/khasinski/parasite-eve-pc/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "parasite-eve-ii",
-      "title": "Parasite Eve II",
-      "originalTitle": "Parasite Eve II",
-      "year": 1999,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Square Enix",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "Parasite Eve II is a 1999 action role-playing game released for the PlayStation. The game was developed and published by Square, published in Japan in 1999 and in both North America and, unlike the previous game, in PAL regions in 2000. It is the sequel to Parasite Eve and the second game in the series of the same name.",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation/Named_Boxarts/Parasite%20Eve%20II%20(USA).png"
-      },
-      "links": {
-        "repo": "https://github.com/faligame/Parasite-Eve-2-HD-Remaster",
-        "releases": "https://github.com/faligame/Parasite-Eve-2-HD-Remaster/releases"
-      },
-      "sources": [
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -25255,106 +22889,7 @@
       ]
     },
     {
-      "id": "pikmin-1-and-2",
-      "title": "Pikmin 1 & 2",
-      "originalTitle": "Pikmin 1 &amp; 2",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo GameCube • 2001 Pikmin 1 &amp; 2 Open Nectar Open Nectar runs Pikmin and Pikmin 2 natively on Android, Linux and Windows, built on the projectPiki decompilations. Pikmin 2 is playable start to finish;",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Pikmin%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Pikmin%20%28Europe%29%20%28En%2CFr%2CDe%2CEs%2CIt%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "pikmin-2-decompilation",
-      "title": "Pikmin 2 Decompilation",
-      "originalTitle": "Pikmin 2",
-      "year": 2004,
-      "platforms": [
-        "GameCube"
-      ],
-      "developer": "Nintendo",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Pikmin 2 is a 2004 real-time strategy puzzle video game developed and published by Nintendo for the GameCube. It is the direct sequel to the 2001 game Pikmin and the second game in the Pikmin series. In the game, Captain Olimar returns to the Pikmin planet to collect valuable treasure after learning that the company he works for—Hocotate Freight—is on the verge of bankruptcy.",
-      "tags": [
-        "GameCube"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/3/38/Pikmin_2_Case.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/projectPiki/pikmin2",
-        "releases": "https://github.com/projectPiki/pikmin2/releases"
-      },
-      "license": "CC0-1.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "pilotwings-64",
-      "title": "Pilotwings 64",
-      "originalTitle": "Pilotwings 64",
-      "platforms": [
-        "n64"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo 64 • 1996 Pilotwings 64 Birdman64 Native Android and PC port of Nintendo&#39;s N64 flight simulator built via static recompilation by NoahVl (AmazingFinger). Features widescreen rendering, high refres",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Pilotwings%2064%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/Pilotwings%2064%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "pilotwings-64-2",
       "title": "Pilotwings 64",
       "platforms": [
         "n64"
@@ -25526,8 +23061,7 @@
       "sources": [
         "awesome-android-ports",
         "awesome-x360",
-        "openportsgames",
-        "ports-launcher"
+        "openportsgames"
       ]
     },
     {
@@ -25716,74 +23250,6 @@
       "license": "LGPL-3.0",
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "pokemon-pinball-ruby-and-sapphire",
-      "title": "Pokemon Pinball Ruby & Sapphire",
-      "originalTitle": "Pokemon Pinball Ruby & Sapphire",
-      "year": 2003,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Nintendo",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Pokémon Pinball: Ruby & Sapphire is a 2003 pinball game developed by Jupiter and published by The Pokémon Company and Nintendo for the Game Boy Advance handheld game console. It was first revealed at E3 2003. The North American release was done to coincide with the fifth anniversary of the North American release of Pokémon Red and Blue. It is based on Pokémon Ruby and Sapphire, and is a sequel to ",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/8/82/Pokemonpinballrubyandsapphire.png"
-      },
-      "links": {
-        "repo": "https://github.com/pret/pokepinballrs",
-        "releases": "https://github.com/pret/pokepinballrs/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "pokemon-platinum",
-      "title": "Pokemon Platinum",
-      "originalTitle": "Pokemon Platinum",
-      "year": 2008,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Nintendo",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Pokémon Platinum Version is a 2008 role-playing video game developed by Game Freak and published by The Pokémon Company and Nintendo for the Nintendo DS. The game is an enhanced version of the 2006 titles Pokémon Diamond and Pearl and is part of the fourth generation of the Pokémon video game series. It was released in Japan in September 2008 and internationally throughout 2009.",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/c/ca/Pokemon_Platinum.png"
-      },
-      "links": {
-        "repo": "https://github.com/pret/pokeplatinum",
-        "releases": "https://github.com/pret/pokeplatinum/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -26263,38 +23729,6 @@
       ]
     },
     {
-      "id": "pokemon-red-gold-and-ruby-gen1recomp",
-      "title": "Pokémon Red, Gold & Ruby (Gen1Recomp)",
-      "originalTitle": "Pokémon Red, Gold &amp; Ruby",
-      "platforms": [
-        "gba"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Game Boy / Game Boy Color / GBA • 1996 Pokémon Red, Gold &amp; Ruby (Gen1Recomp) G1R Deluxe G1R Deluxe recreates Pokémon Red, Blue, Yellow, Gold, Silver, Crystal, FireRed, LeafGreen, Ruby, Sapphire and Eme",
-      "tags": [
-        "gba"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20-%20FireRed%20Version%20(USA).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Game_Boy_Advance/master/Named_Boxarts/Pokemon%20-%20FireRed%20Version%20(USA).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "pokemon-reloaded-en-android",
       "title": "Pokémon Reloaded en Android",
       "originalTitle": "Pokemon Reloaded",
@@ -26436,41 +23870,6 @@
       ]
     },
     {
-      "id": "pokemon-soulsilver-pokeheartgold-single-screen",
-      "title": "Pokémon SoulSilver (pokeheartgold-single-screen)",
-      "originalTitle": "Pokémon SoulSilver",
-      "year": 2009,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Nintendo",
-      "portType": "decompilation",
-      "status": "beta",
-      "description": "Pokémon HeartGold Version and Pokémon SoulSilver Version are 2009 remakes of the 1999 Game Boy Color role-playing video games Pokémon Gold and Silver, also including features from Pokémon Crystal. The games are part of the fourth generation of the Pokémon video game series, developed by Game Freak and published by The Pokémon Company and Nintendo for the Nintendo DS. In commemoration of the 10th a",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://openportsgames.com/covers/generated/pokemon-soulsilver.svg"
-      },
-      "links": {
-        "repo": "https://github.com/ClickingMaster/pokeheartgold-single-screen",
-        "releases": "https://github.com/ClickingMaster/pokeheartgold-single-screen/releases"
-      },
-      "license": "MIT",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "pokemon-stadium-recompiled",
       "title": "Pokémon Stadium Recompiled",
       "originalTitle": "Pokémon Stadium",
@@ -26579,38 +23978,6 @@
       },
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "pokemon-let-s-go-eevee",
-      "title": "Pokémon: Let's Go, Eevee!",
-      "originalTitle": "Pokémon: Let&#39;s Go, Eevee!",
-      "platforms": [
-        "switch"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "unknown",
-      "description": "⚙ In Dev Nintendo Switch • 2018 Pokémon: Let&#39;s Go, Eevee! letsgo-recomp-android Android port of raulzrrs&#39;s letsgo-recomp, the static recompilation of Let&#39;s Go, Eevee! It boots, renders the world, battles and",
-      "tags": [
-        "switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://images.launchbox-app.com//a9e597ac-d081-4ab5-a66c-1e12c9a3bd02.jpg",
-        "hero": "https://images.launchbox-app.com//a9e597ac-d081-4ab5-a66c-1e12c9a3bd02.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -26791,38 +24158,6 @@
       ]
     },
     {
-      "id": "prince-of-persia-the-sands-of-time",
-      "title": "Prince of Persia: The Sands of Time",
-      "originalTitle": "Prince of Persia: The Sands of Time",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Original Xbox • 2003 Prince of Persia: The Sands of Time reSOT Static recompilation of the Original Xbox Sands of Time for Windows and Android. Both the retail game and the E3 2003 demo play on Android in",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Prince%20of%20Persia%20-%20The%20Sands%20of%20Time%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "prince-of-persia-the-sands-of-time-android",
       "title": "Prince of Persia: The Sands of Time (Android)",
       "originalTitle": "Prince of Persia: The Sands of Time",
@@ -26853,8 +24188,7 @@
       },
       "sources": [
         "awesome-android-ports",
-        "openportsgames",
-        "ports-launcher"
+        "openportsgames"
       ]
     },
     {
@@ -26955,41 +24289,6 @@
         "releases": "https://github.com/Alexbeav/pro-pinball-timeshock-recomp/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "project-gotham-racing-4-recompiled",
-      "title": "Project Gotham Racing 4 Recompiled",
-      "originalTitle": "Project Gotham Racing 4",
-      "year": 2007,
-      "platforms": [
-        "Xbox 360"
-      ],
-      "developer": "Microsoft Game Studios",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Project Gotham Racing 4 is a 2007 racing video game developed by Bizarre Creations and published by Microsoft Game Studios. The fourth main title of the Project Gotham Racing series, it was released exclusively for the Xbox 360. New features included weather effects, Bulldog mode, and the inclusion of motorcycles.",
-      "tags": [
-        "Xbox 360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/8/88/PGR4boxart.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/beatrixzy/PGR4-Recomp",
-        "releases": "https://github.com/beatrixzy/PGR4-Recomp/releases"
-      },
-      "sources": [
-        "awesome-x360",
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -27886,38 +25185,6 @@
     {
       "id": "rampage-total-destruction",
       "title": "Rampage: Total Destruction",
-      "originalTitle": "Rampage: Total Destruction",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "unknown",
-      "description": "⚙ In Dev PlayStation 2 • 2006 Rampage: Total Destruction RampageRE A native port of Rampage: Total Destruction built on a PS2Recomp static recompilation, with parts being replaced by readable native code. Android builds",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Rampage%20-%20Total%20Destruction%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Rampage%20-%20Total%20Destruction%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "rampage-total-destruction-2",
-      "title": "Rampage: Total Destruction",
       "platforms": [
         "ps2"
       ],
@@ -28024,38 +25291,6 @@
       ]
     },
     {
-      "id": "rayman-legends",
-      "title": "Rayman Legends",
-      "originalTitle": "Rayman Legends",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Xbox 360 • 2013 Rayman Legends Legends Recomp Rayman Legends from Xbox 360, recompiled to run natively on Android with the ReXGlue SDK. The author reports 60 FPS at 100% resolution on a Snapdragon 845. Sta",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "rayman-mini",
       "title": "Rayman Mini",
       "originalTitle": "Rayman Mini",
@@ -28142,26 +25377,6 @@
       ]
     },
     {
-      "id": "rayman-origins-2",
-      "title": "Rayman Origins",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Required files: Rayman Origins for Xbox 360 In the app, import the game files as a .zip, or pick the folder that contains default.xex (or bootsequence_X360.ipk). Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "owned"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/cb1a716a70ad58a2f02792dcc8db2039.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "re-cherry",
       "title": "Re-Cherry",
       "originalTitle": "Lollipop Chainsaw",
@@ -28227,31 +25442,6 @@
       },
       "sources": [
         "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "re-volt",
-      "title": "Re-Volt",
-      "platforms": [
-        "pc"
-      ],
-      "portType": "unknown",
-      "status": "unknown",
-      "tags": [
-        "pc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://cdn2.steamgriddb.com/grid/fb28d8ab066e9745db1b24d392a6d38a.png"
-      },
-      "sources": [
         "ports-launcher"
       ]
     },
@@ -28608,38 +25798,6 @@
       },
       "sources": [
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "resident-evil-1996",
-      "title": "Resident Evil (1996)",
-      "originalTitle": "Resident Evil",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable PC • 1996 Resident Evil (1996) Resident Evil 1996 Android Unofficial Android port of the original Resident Evil, built on the ecruells PC decompilation. Adds a launcher, movable touch controls, controller supp",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Resident%20Evil%20-%20Director%27s%20Cut%20(USA).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Resident%20Evil%20-%20Director%27s%20Cut%20(USA).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -29152,41 +26310,6 @@
       "stars": 320,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "ringout",
-      "title": "RingOut",
-      "originalTitle": "SoulCalibur II",
-      "year": 2002,
-      "platforms": [
-        "GameCube"
-      ],
-      "developer": "Namco",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "Soulcalibur II is a 2002 fighting game developed and published by Namco. It is the third installment in the Soulcalibur series of weapon-based fighting games as the sequel to Soulcalibur (1998). Originally intended to be released on Sega's NAOMI arcade board, the game was built on the Namco System 246 board before being ported to the PlayStation 2, GameCube, and Xbox home consoles.",
-      "tags": [
-        "GameCube"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/SoulCalibur%20II%20(USA).png"
-      },
-      "links": {
-        "repo": "https://github.com/jackpoison-prog/RingOut",
-        "releases": "https://github.com/jackpoison-prog/RingOut/releases"
-      },
-      "license": "GPL-2.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -30322,40 +27445,6 @@
       ]
     },
     {
-      "id": "severed-chains-the-legend-of-dragoon",
-      "title": "Severed Chains (The Legend of Dragoon)",
-      "originalTitle": "The Legend of Dragoon",
-      "year": 1999,
-      "platforms": [
-        "PlayStation"
-      ],
-      "developer": "Sony Computer Entertainment",
-      "portType": "decompilation",
-      "status": "beta",
-      "description": "The Legend of Dragoon is a role-playing video game developed and published by Sony Computer Entertainment for the PlayStation. It was released in December 1999 in Japan, June 2000 in North America, and January 2001 in Europe. Set in a high fantasy fictional world called Endiness, the game follows a group of warriors led by the protagonist, Dart, as they attempt to stop the destruction of the world",
-      "tags": [
-        "PlayStation"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/3/32/Legend_of_Dragoon.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains",
-        "releases": "https://github.com/Legend-of-Dragoon-Modding/Severed-Chains/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "sexy-parodius",
       "title": "Sexy Parodius",
       "originalTitle": "Sexy Parodius",
@@ -30781,8 +27870,7 @@
       "sources": [
         "awesome-android-ports",
         "droid-recomp",
-        "openportsgames",
-        "ports-launcher"
+        "openportsgames"
       ]
     },
     {
@@ -30922,26 +28010,6 @@
       "sources": [
         "awesome-x360",
         "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "skate-3",
-      "title": "Skate 3",
-      "portType": "source-port",
-      "status": "unknown",
-      "description": "Tap Select My Skate 3 ISO and choose an ISO dumped from your own copy.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/cb5afcadcac972f1c6d743c96936ebe3.png"
-      },
-      "sources": [
         "ports-launcher"
       ]
     },
@@ -31130,38 +28198,6 @@
       ]
     },
     {
-      "id": "skies-of-arcadia-legends-recompiled",
-      "title": "Skies of Arcadia Legends: Recompiled",
-      "originalTitle": "Skies of Arcadia Legends: iled",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable GameCube • 2002 Skies of Arcadia Legends: Recompiled SkiesOfArcadiaLegends-Recomp Ahead-of-time PowerPC-to-C static recompilation of the GameCube RPG classic by ogdanimal. Runs at full 60 FPS on Snapdragon 865",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Skies%20of%20Arcadia%20Legends%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Skies%20of%20Arcadia%20Legends%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "slash-em",
       "title": "SLASH'EM",
       "originalTitle": "SLASH'EM",
@@ -31324,26 +28360,6 @@
       ]
     },
     {
-      "id": "slay-the-spire-2-2",
-      "title": "Slay the Spire 2",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/3b8a2395c9d71ba8fd80df1c4e02d4d4.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "slay-the-spire-2-android",
       "title": "Slay the Spire 2 (Android)",
       "originalTitle": "Slay the Spire 2",
@@ -31409,38 +28425,6 @@
       },
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "sleeping-dogs-definitive-edition",
-      "title": "Sleeping Dogs: Definitive Edition",
-      "originalTitle": "Sleeping Dogs: Definitive Edition",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PC • 2014 Sleeping Dogs: Definitive Edition Android Native Port Community native Android adaptation of United Front Games&#39; open-world Hong Kong martial arts action drama. Tested on Snapdragon 8s Gen 3",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/307690/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/307690/library_600x900.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -31683,38 +28667,6 @@
       ]
     },
     {
-      "id": "sonic-1-and-sonic-2-2013-decompilation",
-      "title": "Sonic 1 & Sonic 2 (2013 Decompilation)",
-      "originalTitle": "Sonic 1 &amp; Sonic 2",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable Retro Engine v4 Remasters • 2013 Sonic 1 &amp; Sonic 2 (2013 Decompilation) Sonic-1-2-2013-Decompilation Decompilation of Christian Whitehead&#39;s 2013 Retro Engine (RSDKv4) versions of Sonic 1 and 2. Removes",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://images.launchbox-app.com//a2296bc8-5745-4cd0-bd59-5f97a8e7eeb6.png",
-        "hero": "https://images.launchbox-app.com//a2296bc8-5745-4cd0-bd59-5f97a8e7eeb6.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "sonic-1-forever",
       "title": "Sonic 1 Forever",
       "originalTitle": "Sonic 1 Forever",
@@ -31791,38 +28743,6 @@
       ]
     },
     {
-      "id": "sonic-3-and-knuckles",
-      "title": "Sonic 3 & Knuckles",
-      "originalTitle": "Sonic 3 &amp; Knuckles",
-      "platforms": [
-        "genesis"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable Sega Genesis • 1994 Sonic 3 &amp; Knuckles Sonic 3 A.I.R. (Oxygen Engine) Angel Island Revisited is a complete widescreen remaster of Sonic 3 &amp; Knuckles running natively on the custom Oxygen Engine. Featur",
-      "tags": [
-        "genesis"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://images.launchbox-app.com//e5f676ff-711c-4cff-8542-3f2e960eb095.png",
-        "hero": "https://images.launchbox-app.com//e5f676ff-711c-4cff-8542-3f2e960eb095.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "sonic-3-air",
       "title": "Sonic 3 Air",
       "originalTitle": "Sonic the Hedgehog 3 & Knuckles",
@@ -31854,40 +28774,6 @@
       "license": "GPL-3.0",
       "sources": [
         "awesome-android-ports",
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "sonic-advance-2-decompilation",
-      "title": "Sonic Advance 2 Decompilation",
-      "originalTitle": "Sonic Advance 2",
-      "year": 2002,
-      "platforms": [
-        "Game Boy Advance"
-      ],
-      "developer": "Sega",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Sonic Advance 2 is a 2002 platform game developed by Dimps and published by Sega for the Game Boy Advance. It is an installment in the Sonic the Hedgehog series and the sequel to 2001's Sonic Advance. The story follows Sonic as he sets out to save his friends and retrieve the seven magical Chaos Emeralds from Dr. Eggman. Gameplay consists of the player completing various levels as one of five char",
-      "tags": [
-        "Game Boy Advance"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/a/a1/Sonic_Advance_2_Coverart.png"
-      },
-      "links": {
-        "repo": "https://github.com/SAT-R/sa2",
-        "releases": "https://github.com/SAT-R/sa2/releases"
-      },
-      "sources": [
         "openportsgames",
         "ports-launcher"
       ]
@@ -32295,38 +29181,6 @@
       ]
     },
     {
-      "id": "sonic-mania",
-      "title": "Sonic Mania",
-      "originalTitle": "Sonic Mania",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable PC • 2017 Sonic Mania Sonic-Mania-Decompilation Android C++ decompilation of Retro Engine v5. Smooth 60/120 FPS, native Android touch controls, mod loader, Encore DLC support. Decompilation PC Files Required P",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/584400/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/584400/header.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "sonic-mania-decompilation-android",
       "title": "Sonic Mania Decompilation (Android)",
       "originalTitle": "Sonic Mania Plus",
@@ -32405,38 +29259,6 @@
     },
     {
       "id": "sonic-r",
-      "title": "Sonic R",
-      "originalTitle": "Sonic R",
-      "platforms": [
-        "saturn"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable Sega Saturn / PC • 1997 Sonic R sonic-r-android Native Android port of the Sonic R PC decompilation featuring a custom OpenGL ES 2.0 shader pipeline, locked 60 FPS gameplay, customizable touch buttons, and Sto",
-      "tags": [
-        "saturn"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://images.launchbox-app.com//d7bb25ed-f9cd-43e1-95f2-e0e93c651069.png",
-        "hero": "https://images.launchbox-app.com//d7bb25ed-f9cd-43e1-95f2-e0e93c651069.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "sonic-r-2",
       "title": "Sonic R",
       "portType": "unknown",
       "status": "unknown",
@@ -32587,38 +29409,6 @@
       },
       "sources": [
         "awesome-android-ports"
-      ]
-    },
-    {
-      "id": "sonic-robo-blast-2-and-srb2kart",
-      "title": "Sonic Robo Blast 2 & SRB2Kart",
-      "originalTitle": "Sonic Robo Blast 2 &amp; SRB2Kart",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable PC • 1998 Sonic Robo Blast 2 &amp; SRB2Kart SRB2-Android / SRB2-Mobile 3D platformer fangame built from a heavily modified Doom engine running natively on Android with custom mobile HUD controls and mod suppor",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://images.launchbox-app.com//a74a770b-0763-453b-a30f-73546e095f26.jpg",
-        "hero": "https://images.launchbox-app.com//a74a770b-0763-453b-a30f-73546e095f26.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -32996,42 +29786,6 @@
       ]
     },
     {
-      "id": "speedbreaker",
-      "title": "SpeedBreaker",
-      "originalTitle": "SpeedBreaker",
-      "year": 2005,
-      "platforms": [
-        "Xbox 360"
-      ],
-      "developer": "Unknown",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "SpeedBreaker is a racing game for Xbox 360, released in 2005.",
-      "tags": [
-        "Xbox 360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://openportsgames.com/covers/generated/speedbreaker.svg"
-      },
-      "links": {
-        "repo": "https://github.com/SpeedBreakerProject/speedbreaker",
-        "releases": "https://github.com/SpeedBreakerProject/speedbreaker/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "awesome-x360",
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "spelunky-classic-hd",
       "title": "Spelunky Classic HD",
       "originalTitle": "Spelunky Classic HD",
@@ -33289,41 +30043,6 @@
         "releases": "https://github.com/Alexbeav/spyro-the-dragon-recomp/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "ssx-3-ssx3-decomp",
-      "title": "SSX 3 (ssx3-decomp)",
-      "originalTitle": "SSX 3",
-      "year": 2003,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "EA Sports Big",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "SSX 3 is a 2003 snowboarding video game developed by EA Canada and published by Electronic Arts under the EA Sports BIG label. The third installment in the SSX series, it was released on October 21, 2003, for the PlayStation 2, Xbox, and GameCube, and was later ported to the Game Boy Advance by Visual Impact on November 11, 2003, and to the Gizmondo by Exient Entertainment on August 31, 2005, as a",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/4/43/SSX_3_Coverart.png"
-      },
-      "links": {
-        "repo": "https://github.com/andersfischernielsen/ssx3-decomp",
-        "releases": "https://github.com/andersfischernielsen/ssx3-decomp/releases"
-      },
-      "license": "MIT",
-      "sources": [
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -33800,70 +30519,6 @@
       ]
     },
     {
-      "id": "star-wars-knights-of-the-old-republic",
-      "title": "Star Wars: Knights of the Old Republic",
-      "originalTitle": "Star Wars: Knights of the Old Republic",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable Xbox / PC • 2003 Star Wars: Knights of the Old Republic Official Aspyr Media Port Full, uncompromised port of BioWare&#39;s landmark Star Wars RPG. Features streamlined touch controls, full HID gamepad support",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "star-wars-knights-of-the-old-republic-ii-the-sith-lords",
-      "title": "Star Wars: Knights of the Old Republic II: The Sith Lords",
-      "originalTitle": "Star Wars: Knights of the Old Republic II: The Sith Lords",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable Xbox / PC • 2004 Star Wars: Knights of the Old Republic II: The Sith Lords Official Aspyr Media Port Complete mobile conversion of Obsidian&#39;s acclaimed sequel. Boasts high-resolution graphics, controller s",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Star%20Wars%20-%20Knights%20of%20the%20Old%20Republic%20II%20-%20The%20Sith%20Lords%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "star-wars-rogue-squadron",
       "title": "Star Wars: Rogue Squadron",
       "originalTitle": "Star Wars: Rogue Squadron",
@@ -33984,38 +30639,6 @@
       ]
     },
     {
-      "id": "starcraft-64",
-      "title": "StarCraft 64",
-      "originalTitle": "StarCraft 64",
-      "platforms": [
-        "n64"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha Nintendo 64 • 2000 StarCraft 64 StarCraft64-recomp Native port of StarCraft 64 built with N64Recomp and an SDL3 shell. Touch taps and drags become RTS commands. The campaign, menus, save and load work; spl",
-      "tags": [
-        "n64"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/StarCraft%2064%20%28USA%29%20%28Beta%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Nintendo%2064/Named_Boxarts/StarCraft%2064%20%28USA%29%20%28Beta%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "starcraft-64-recompiled",
       "title": "StarCraft 64 Recompiled",
       "originalTitle": "StarCraft 64",
@@ -34046,8 +30669,7 @@
       },
       "sources": [
         "awesome-android-ports",
-        "openportsgames",
-        "ports-launcher"
+        "openportsgames"
       ]
     },
     {
@@ -34091,26 +30713,6 @@
       "stars": 320,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "stardew-valley-2",
-      "title": "Stardew Valley",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "A legitimate copy of Stardew Valley is required. Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/996e24639b91722571c81723760023e0.png"
-      },
-      "sources": [
-        "ports-launcher"
       ]
     },
     {
@@ -34595,41 +31197,6 @@
       ]
     },
     {
-      "id": "super-mario-64-ds-decompilation",
-      "title": "Super Mario 64 DS Decompilation",
-      "originalTitle": "Super Mario 64 DS",
-      "year": 2004,
-      "platforms": [
-        "Nintendo DS"
-      ],
-      "developer": "Nintendo",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Super Mario 64 DS is a 2004 platform video game developed and published by Nintendo for the Nintendo DS. It is an enhanced remake of Super Mario 64, released in 1996 for the Nintendo 64. As with the original, the game's plot centers on rescuing Princess Peach from Bowser. Players start the game with Yoshi as the playable character and gain access to Mario, Luigi, and Wario as the story progresses.",
-      "tags": [
-        "Nintendo DS"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/1/12/Super_Mario_64_DS_Coverart.png"
-      },
-      "links": {
-        "repo": "https://github.com/tangosdev/sm64ds-decomp",
-        "releases": "https://github.com/tangosdev/sm64ds-decomp/releases"
-      },
-      "license": "MIT",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "super-mario-advance-3-yoshi-s-island",
       "title": "Super Mario Advance 3: Yoshi's Island",
       "originalTitle": "Super Mario Advance 3: Yoshi's Island",
@@ -34897,58 +31464,6 @@
       ]
     },
     {
-      "id": "super-mario-bros-x",
-      "title": "Super Mario Bros. X",
-      "portType": "engine",
-      "status": "unknown",
-      "description": "TheXTech is a runtime engine only: it needs the SMBX 1.3 game assets downloaded separately (see the mods link below). On Android, create a folder named \"TheXTech Games\" at the root of your internal storage, then extract the assets into a su",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://cdn2.steamgriddb.com/grid/5dcd8f765b02f503057e6087dec1c71c.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "super-mario-galaxy",
-      "title": "Super Mario Galaxy",
-      "originalTitle": "Super Mario Galaxy",
-      "platforms": [
-        "wii"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable Nintendo Wii • 2007 Super Mario Galaxy Galaxy Android Standalone 100% ARM64 Android port of the Wii cosmic gravity platformer by OpenPort-Labs. Executes natively via Vulkan 1.0 (with OpenGL ES 3.2 fallback) an",
-      "tags": [
-        "wii"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii/master/Named_Boxarts/Super%20Mario%20Galaxy%20(USA)%20(En%2CFr%2CEs).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_Wii/master/Named_Boxarts/Super%20Mario%20Galaxy%20(USA)%20(En%2CFr%2CEs).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "super-mario-land-2-6-golden-coins",
       "title": "Super Mario Land 2: 6 Golden Coins",
       "originalTitle": "Super Mario Land 2: 6 Golden Coins",
@@ -35157,38 +31672,6 @@
     },
     {
       "id": "super-mario-sunshine",
-      "title": "Super Mario Sunshine",
-      "originalTitle": "Super Mario Sunshine",
-      "platforms": [
-        "gc"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable GameCube • 2002 Super Mario Sunshine Mareshine Native Android port of Super Mario Sunshine built from the doldecomp/sms decompilation and chasem-dev&#39;s PC port with a custom OpenGL ES 3 renderer, up to 120",
-      "tags": [
-        "gc"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Super%20Mario%20Sunshine%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20GameCube/Named_Boxarts/Super%20Mario%20Sunshine%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "super-mario-sunshine-2",
       "title": "Super Mario Sunshine",
       "platforms": [
         "gc"
@@ -35497,41 +31980,6 @@
         "releases": "https://github.com/josiahg2502-glitch/Smash4PC/releases"
       },
       "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "super-smash-bros-ultimate-opensmash-ultimate",
-      "title": "Super Smash Bros. Ultimate (OpenSmash-Ultimate)",
-      "originalTitle": "Super Smash Bros. Ultimate",
-      "year": 2018,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Nintendo",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "Super Smash Bros. Ultimate is a 2018 crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch. It is the fifth installment in the Super Smash Bros. series, succeeding Super Smash Bros. for Nintendo 3DS and Wii U (2014). The game follows the series' traditional style of gameplay, in which players control one of the various characters ",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/Super_Smash_Bros._Ultimate.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/OpenSmash-Ultimate/ssbu-recomp",
-        "releases": "https://github.com/OpenSmash-Ultimate/ssbu-recomp/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "openportsgames",
         "ports-launcher"
       ]
     },
@@ -36274,38 +32722,6 @@
       ]
     },
     {
-      "id": "tetris-attack",
-      "title": "Tetris Attack",
-      "originalTitle": "Tetris Attack",
-      "platforms": [
-        "snes"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Super Nintendo • 1996 Tetris Attack Dino Block Stacker Native Android, Windows, Original Xbox and Xbox 360 port of Tetris Attack (Panel de Pon) by SirDankz. Adds online rooms with chat, LAN play, leaderboards",
-      "tags": [
-        "snes"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Tetris%20Attack%20%28USA%29%20%28En%2CJa%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Tetris%20Attack%20%28USA%29%20%28En%2CJa%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "tf15-client",
       "title": "TF15-Client",
       "originalTitle": "Team Fortress Classic",
@@ -36615,26 +33031,6 @@
       ]
     },
     {
-      "id": "the-elder-scrolls-ii-daggerfall-2",
-      "title": "The Elder Scrolls II: Daggerfall",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "You can get a free copy of DOS Daggerfall from Steam https://store.steampowered.com/app/1812390/The_Elder_Scrolls_II_Daggerfall/ and a free copy of Daggerfall Unity from the Releases https://github.com/Interkarma/daggerfall-unity/releases p",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/a2d13ad880e087a989a8fc07c87d7272.png"
-      },
-      "sources": [
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "the-elder-scrolls-v-skyrim",
       "title": "The Elder Scrolls V: Skyrim",
       "originalTitle": "The Elder Scrolls V: Skyrim",
@@ -36861,38 +33257,6 @@
     {
       "id": "the-legend-of-zelda-a-link-to-the-past",
       "title": "The Legend of Zelda: A Link to the Past",
-      "originalTitle": "The Legend of Zelda: A Link to the Past",
-      "platforms": [
-        "snes"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable SNES • 1991 The Legend of Zelda: A Link to the Past zelda3-android / Moon Pearl Complete C rewrite of ALttP (snesrev/zelda3) compiled natively for Android. Delivers native 16:9 widescreen presentation, MSU-1 o",
-      "tags": [
-        "snes"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Nintendo%20-%20Super%20Nintendo%20Entertainment%20System/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20A%20Link%20to%20the%20Past%20%28USA%29.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "the-legend-of-zelda-a-link-to-the-past-2",
-      "title": "The Legend of Zelda: A Link to the Past",
       "portType": "source-port",
       "status": "unknown",
       "description": "Required files: Legend of Zelda, The - A Link to the Past (USA).sfc (CRC32: 777AAC2F) Windows: To change the game's language, use the RIP patch in the extra, or extract the text from your game with Zelda3_Launcher.bat and modify the zelda3.",
@@ -37022,38 +33386,6 @@
       "sources": [
         "openportsgames",
         "ports-launcher"
-      ]
-    },
-    {
-      "id": "the-legend-of-zelda-echoes-of-wisdom",
-      "title": "The Legend of Zelda: Echoes of Wisdom",
-      "originalTitle": "The Legend of Zelda: Echoes of Wisdom",
-      "platforms": [
-        "switch"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "unknown",
-      "description": "⚙ In Dev Nintendo Switch • 2024 The Legend of Zelda: Echoes of Wisdom EoWRecomp Static recompilation of Echoes of Wisdom, built on LAS Recomp. Early development: the opening and first scene play on Linux. The Android alp",
-      "tags": [
-        "switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://images.launchbox-app.com/3979d9e2-9e02-4489-86e1-b5ddc4e1e29a.png",
-        "hero": "https://images.launchbox-app.com/3979d9e2-9e02-4489-86e1-b5ddc4e1e29a.png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
@@ -37394,40 +33726,6 @@
       ]
     },
     {
-      "id": "the-legend-of-zelda-skyward-sword-hd-sky-recomp",
-      "title": "The Legend of Zelda: Skyward Sword HD (Sky Recomp)",
-      "originalTitle": "The Legend of Zelda: Skyward Sword HD",
-      "year": 2021,
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "developer": "Nintendo",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "The Legend of Zelda: Skyward Sword is a 2011 action-adventure game developed and published by Nintendo for the Wii. A mainline entry in The Legend of Zelda series, Skyward Sword is the first game in the Zelda timeline, and details the origins of the Master Sword, a recurring weapon within the series. Series protagonist Link, a resident of a floating town called Skyloft, sets out to rescue his chil",
-      "tags": [
-        "Nintendo Switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://openportsgames.com/covers/generated/the-legend-of-zelda-skyward-sword-hd.svg"
-      },
-      "links": {
-        "repo": "https://github.com/Apolinario-coder/SkyRecomp",
-        "releases": "https://github.com/Apolinario-coder/SkyRecomp/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "the-legend-of-zelda-the-minish-cap",
       "title": "The Legend of Zelda: The Minish Cap",
       "originalTitle": "The Legend of Zelda: The Minish Cap",
@@ -37511,39 +33809,6 @@
       "stars": 320,
       "sources": [
         "droid-recomp"
-      ]
-    },
-    {
-      "id": "the-legend-of-zelda-the-wind-waker-hd",
-      "title": "The Legend of Zelda: The Wind Waker HD",
-      "originalTitle": "The Legend of Zelda: The Wind Waker HD",
-      "platforms": [
-        "wii"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable Wii U • 2013 The Legend of Zelda: The Wind Waker HD ZeldaWWHDRecomp Android Native port running via static binary recompilation of the Wii U version directly on ARM64 Android hardware. Features native widescre",
-      "tags": [
-        "wii"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker%20(USA).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Nintendo_-_GameCube/master/Named_Boxarts/Legend%20of%20Zelda%2C%20The%20-%20The%20Wind%20Waker%20(USA).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp",
-        "ports-launcher"
       ]
     },
     {
@@ -37882,26 +34147,6 @@
       "sources": [
         "droid-recomp",
         "openportsgames"
-      ]
-    },
-    {
-      "id": "the-simpsons-hit-and-run-2",
-      "title": "The Simpsons: Hit and Run",
-      "portType": "unknown",
-      "status": "unknown",
-      "description": "Android 7.0 or higher Languages: Multilingual.",
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://cdn2.steamgriddb.com/grid/8869d32a8ef425af3b064ed17c0e909a.png"
-      },
-      "sources": [
-        "ports-launcher"
       ]
     },
     {
@@ -38376,38 +34621,6 @@
       ]
     },
     {
-      "id": "tomb-raider-i-iii-remastered",
-      "title": "Tomb Raider I-III Remastered",
-      "originalTitle": "Tomb Raider I-III Remastered",
-      "platforms": [
-        "ps1"
-      ],
-      "developer": "Community Porters",
-      "portType": "engine",
-      "status": "stable",
-      "description": "✓ Playable PC / PS1 • 1996 Tomb Raider I-III Remastered Official Aspyr Remaster The definitive remastered collection of Lara Croft&#39;s first three adventures on mobile. Offers dynamic toggling between modern upgraded v",
-      "tags": [
-        "ps1"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2478970/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2478970/library_600x900.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "tomba-recomp-ds-dual-screen",
       "title": "Tomba Recomp DS (Dual Screen)",
       "originalTitle": "Tomba! 2: The Evil Swine Return",
@@ -38682,40 +34895,6 @@
       ]
     },
     {
-      "id": "tony-hawk-s-project-8-recompiled",
-      "title": "Tony Hawk's Project 8 Recompiled",
-      "originalTitle": "Tony Hawk's Project 8",
-      "year": 2006,
-      "platforms": [
-        "Xbox 360"
-      ],
-      "developer": "Activision",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Tony Hawk's Project 8 is a 2006 skateboarding video game and the eighth installment in the Tony Hawk's series. It was developed by Neversoft and published by Activision in November 2006 for the PlayStation 2, Xbox, Xbox 360, PlayStation 3, and PlayStation Portable. The game complements the release of Tony Hawk's Downhill Jam, which was conversely available on Nintendo systems along with the PlaySt",
-      "tags": [
-        "Xbox 360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/8/8c/Tony_Hawk%27s_Project_8_cover.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/theokyr/Project8Recomp",
-        "releases": "https://github.com/theokyr/Project8Recomp/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "touhou-6-android",
       "title": "Touhou 6 (Android)",
       "originalTitle": "Touhou 6: The Embodiment of Scarlet Devil",
@@ -38823,73 +35002,6 @@
         }
       ],
       "stars": 320,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "toy-story-2-buzz-lightyear-to-the-rescue",
-      "title": "Toy Story 2: Buzz Lightyear to the Rescue",
-      "originalTitle": "Toy Story 2: Buzz Lightyear to the Rescue",
-      "year": 1999,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Activision",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "Toy Story 2: Buzz Lightyear to the Rescue is a 1999 platform game developed by Traveller's Tales and published by Activision and Disney Interactive. Based on Disney and Pixar's computer-animated film Toy Story 2, it was released for Nintendo 64, PlayStation, Microsoft Windows, and Macintosh in late 1999, while a Dreamcast version followed in 2000. The computer versions were released under the titl",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://openportsgames.com/covers/generated/toy-story-2-buzz-lightyear-to-the-rescue.svg"
-      },
-      "links": {
-        "repo": "https://github.com/Capridog/SpaceRanger",
-        "releases": "https://github.com/Capridog/SpaceRanger/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "transformers-the-game",
-      "title": "Transformers: The Game",
-      "originalTitle": "Transformers: The Game",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "alpha",
-      "description": "⚡ Active Alpha PC • 2007 Transformers: The Game Transformers: The Game Recompiled A playable preview of Transformers: The Game, recompiled from the PC version. The Autobot campaign&#39;s Suburbs level and Decepticon Chap",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://images.launchbox-app.com/8b610b2b-f00f-4d84-b2cd-70a7ca81632f.jpg",
-        "hero": "https://images.launchbox-app.com/8b610b2b-f00f-4d84-b2cd-70a7ca81632f.jpg"
-      },
-      "stars": 1850,
       "sources": [
         "droid-recomp"
       ]
@@ -40267,38 +36379,6 @@
       ]
     },
     {
-      "id": "virtua-tennis-3",
-      "title": "Virtua Tennis 3",
-      "originalTitle": "Virtua Tennis 3",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "unknown",
-      "description": "⚙ In Dev PC • 2007 Virtua Tennis 3 vt3-port The 2007 PC release of Virtua Tennis 3 running as native code on Android and Apple Silicon. Experimental, but the README says it&#39;s playable on a Snapdragon 8 Gen 2 Retroid",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Virtua%20Tennis%203%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(v1.02).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_Portable/master/Named_Boxarts/Virtua%20Tennis%203%20(USA)%20(En%2CJa%2CFr%2CDe%2CEs%2CIt)%20(v1.02).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
       "id": "visual-novels-cpymo",
       "title": "Visual novels (CPyMO)",
       "developer": "Strrationalism",
@@ -40776,41 +36856,6 @@
       ]
     },
     {
-      "id": "wc1-re",
-      "title": "Wc1-re",
-      "originalTitle": "wc1-re",
-      "year": 2000,
-      "platforms": [
-        "Unknown"
-      ],
-      "developer": "Unknown",
-      "portType": "engine",
-      "status": "alpha",
-      "description": "wc1-re is a action-adventure game, released in 2000.",
-      "tags": [
-        "Unknown"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://openportsgames.com/covers/generated/wc1-re.svg"
-      },
-      "links": {
-        "repo": "https://github.com/neuromancer/wc1-re",
-        "releases": "https://github.com/neuromancer/wc1-re/releases"
-      },
-      "license": "GPL-3.0",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "white-album2",
       "title": "WHITE ALBUM2",
       "originalTitle": "WHITE ALBUM2",
@@ -40984,73 +37029,7 @@
       ]
     },
     {
-      "id": "windowsmash",
-      "title": "WindowSmash",
-      "originalTitle": "Super Smash Bros. Ultimate",
-      "year": 2018,
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "developer": "Nintendo",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "Super Smash Bros. Ultimate is a 2018 crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo for the Nintendo Switch. It is the fifth installment in the Super Smash Bros. series, succeeding Super Smash Bros. for Nintendo 3DS and Wii U (2014). The game follows the series' traditional style of gameplay, in which players control one of the various characters ",
-      "tags": [
-        "Nintendo Switch"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/5/50/Super_Smash_Bros._Ultimate.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/SNO2207/WindowSmash",
-        "releases": "https://github.com/SNO2207/WindowSmash/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
       "id": "wipeout",
-      "title": "wipEout",
-      "originalTitle": "wipEout",
-      "platforms": [
-        "ps1"
-      ],
-      "developer": "Community Porters",
-      "portType": "decompilation",
-      "status": "stable",
-      "description": "✓ Playable PlayStation • 1995 wipEout wipeout-rewrite (Dominic Szablewski) Total reverse-engineered source port running natively via SDL2 and OpenGL ES. High framerate, widescreen, high-resolution 3D rendering, and touch",
-      "tags": [
-        "ps1"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#57D9A3",
-        "cover": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Wipeout%20(USA).png",
-        "hero": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation/master/Named_Boxarts/Wipeout%20(USA).png"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
-      ]
-    },
-    {
-      "id": "wipeout-2",
       "title": "WipEout",
       "portType": "unknown",
       "status": "unknown",
@@ -41436,40 +37415,6 @@
         "awesome-android-ports",
         "awesome-x360",
         "openportsgames"
-      ]
-    },
-    {
-      "id": "x-men-destiny-recompiled",
-      "title": "X-Men Destiny Recompiled",
-      "originalTitle": "X-Men Destiny",
-      "year": 2011,
-      "platforms": [
-        "Xbox 360"
-      ],
-      "developer": "Activision",
-      "portType": "recompilation",
-      "status": "beta",
-      "description": "X-Men: Destiny is an action role-playing video game based on the X-Men comic book series. It was developed by Silicon Knights. Written by Mike Carey, the writer of the X-Men: Legacy comic book series, it was published and released by Activision for the Nintendo DS, PlayStation 3, Wii, and Xbox 360 consoles.",
-      "tags": [
-        "Xbox 360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://upload.wikimedia.org/wikipedia/en/1/14/X-men-destiny-cover-890x1024.jpg"
-      },
-      "links": {
-        "repo": "https://github.com/florinp93/xmd-recompiled",
-        "releases": "https://github.com/florinp93/xmd-recompiled/releases"
-      },
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
       ]
     },
     {
@@ -42276,73 +38221,6 @@
       },
       "sources": [
         "openportsgames"
-      ]
-    },
-    {
-      "id": "zoids-legacy",
-      "title": "Zoids Legacy",
-      "originalTitle": "Zoids Legacy",
-      "year": 2000,
-      "platforms": [
-        "Game Boy Advance"
-      ],
-      "developer": "Unknown",
-      "portType": "decompilation",
-      "status": "alpha",
-      "description": "Zoids Legacy is a action-adventure game for Game Boy Advance, released in 2000.",
-      "tags": [
-        "Game Boy Advance"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": null,
-        "abis": [],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FFB86B",
-        "cover": "https://thumbnails.libretro.com/Nintendo%20-%20Game%20Boy%20Advance/Named_Boxarts/Zoids%20-%20Legacy%20(USA).png"
-      },
-      "links": {
-        "repo": "https://github.com/jmacato/ZoidsLegacyDecomp",
-        "releases": "https://github.com/jmacato/ZoidsLegacyDecomp/releases"
-      },
-      "license": "MIT",
-      "sources": [
-        "openportsgames",
-        "ports-launcher"
-      ]
-    },
-    {
-      "id": "zombies-ate-my-neighbors",
-      "title": "Zombies Ate My Neighbors",
-      "originalTitle": "Zombies Ate My Neighbors",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Community Porters",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "✓ Playable SNES • 1993 Zombies Ate My Neighbors Undead Neighbor Eaters Droid Native Android and Original Xbox port of LucasArts&#39; run-and-gun co-op classic by SirDankz. Features native rendering and audio, online 2-pl",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "10.0 (ARM64)",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1137970/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1137970/header.jpg"
-      },
-      "stars": 1850,
-      "sources": [
-        "droid-recomp"
       ]
     },
     {
