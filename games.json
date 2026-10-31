@@ -1,7 +1,7 @@
 {
   "version": 1,
   "generatedAt": "2026-10-31T13:48:50+00:00",
-  "count": 1043,
+  "count": 1027,
   "games": [
     {
       "id": "hack-versus",
@@ -2539,73 +2539,6 @@
       }
     },
     {
-      "id": "antonblast",
-      "title": "ANTONBLAST",
-      "originalTitle": "ANTONBLAST",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Summitsphere / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "ANTONBLAST is an explosive, action-packed retro platformer with a destructive twist. Wield the Mighty Hammer and tear down bizarre worlds.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1887400/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1887400/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/antonblast-128840",
-        "releases": "https://apkvision.org/games/antonblast-128840/releases"
-      },
-      "downloads": [],
-      "stars": 3120,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "ANTONBLAST",
-        "requiredFiles": "ANTONBLAST game data",
-        "steps": [
-          "Own a legal copy of ANTONBLAST (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: ANTONBLAST game data",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=ANTONBLAST"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=ANTONBLAST"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:55:41+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "ape-escape",
       "title": "Ape Escape",
       "originalTitle": "Ape Escape",
@@ -4344,73 +4277,6 @@
         "stars": 12,
         "pushedAt": "2026-10-16",
         "releaseTag": null
-      }
-    },
-    {
-      "id": "bastion",
-      "title": "Bastion",
-      "originalTitle": "Bastion",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Supergiant Games / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Bastion is an action role-playing experience that redefines storytelling in games, with a reactive narrator who marks your every move.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#6C7BFF",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107100/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/107100/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/bastion-128785",
-        "releases": "https://apkvision.org/games/bastion-128785/releases"
-      },
-      "downloads": [],
-      "stars": 4890,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Bastion",
-        "requiredFiles": "Original Bastion game data",
-        "steps": [
-          "Own a legal copy of Bastion (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original Bastion game data",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Bastion"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Bastion"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:55:43+00:00",
-        "repoAlive": false,
-        "apk": false
       }
     },
     {
@@ -12082,59 +11948,6 @@
       }
     },
     {
-      "id": "devil-may-cry-4-2",
-      "title": "Devil May Cry 4",
-      "originalTitle": "Devil May Cry 4",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Capcom / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Devil May Cry 4 immerses gamers in a supernatural gothic world where a new protagonist clashes with familiar hero Dante. With the Devil Bringer arm, Nero unleashes devastating combos.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/45700/library_600x900.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/devil-may-cry-4-129618",
-        "releases": "https://apkvision.org/games/devil-may-cry-4-129618/releases"
-      },
-      "downloads": [],
-      "stars": 4520,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "easy",
-        "minutes": 5,
-        "gameFiles": "none",
-        "requiredFiles": "Standalone pre-packaged APK",
-        "steps": [
-          "Download the APK from the project's releases page.",
-          "Install and open it — this build needs no game files."
-        ],
-        "confidence": "exact"
-      },
-      "verified": {
-        "at": "2026-10-31T13:55:53+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "devilutionx",
       "title": "DevilutionX",
       "originalTitle": "Diablo",
@@ -19536,73 +19349,6 @@
       }
     },
     {
-      "id": "freedom-planet-2",
-      "title": "Freedom Planet 2",
-      "originalTitle": "Freedom Planet 2",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "GalaxyTrail / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Freedom Planet 2 is a high-speed combat platformer that puts 4 heroic animal heroines against ancient aquatic terrors across the continent of Avalice.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/595500/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/595500/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/freedom-planet-2-128835",
-        "releases": "https://apkvision.org/games/freedom-planet-2-128835/releases"
-      },
-      "downloads": [],
-      "stars": 2480,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Freedom Planet 2",
-        "requiredFiles": "Original Freedom Planet 2 PC data files",
-        "steps": [
-          "Own a legal copy of Freedom Planet 2 (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original Freedom Planet 2 PC data files",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Freedom%20Planet%202"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Freedom%20Planet%202"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:04+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "freeserf-net",
       "title": "Freeserf.net",
       "originalTitle": "freeserf.net",
@@ -20559,73 +20305,6 @@
         "stars": 403,
         "pushedAt": "2026-10-31",
         "releaseTag": null
-      }
-    },
-    {
-      "id": "gang-beasts",
-      "title": "Gang Beasts",
-      "originalTitle": "Gang Beasts",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Boneloaf / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Gang Beasts is a silly party game set in the mean streets of Beef City. Customise your character and fight local and online enemies in melee fight sequences.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/285900/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/gang-beasts-128815",
-        "releases": "https://apkvision.org/games/gang-beasts-128815/releases"
-      },
-      "downloads": [],
-      "stars": 4210,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Gang Beasts",
-        "requiredFiles": "Pre-packaged APK or Gang Beasts PC data",
-        "steps": [
-          "Own a legal copy of Gang Beasts (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Pre-packaged APK or Gang Beasts PC data",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Gang%20Beasts"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Gang%20Beasts"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:05+00:00",
-        "repoAlive": false,
-        "apk": false
       }
     },
     {
@@ -24680,60 +24359,6 @@
       }
     },
     {
-      "id": "helltaker",
-      "title": "Helltaker",
-      "originalTitle": "Helltaker",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "vanripper / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Helltaker is a short game about sharply dressed demon girls. Descend into hell in search of demonic romance in this witty, stylish puzzle game.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "7.0",
-        "abis": [
-          "arm64-v8a",
-          "armeabi-v7a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289310/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1289310/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/helltaker-128830",
-        "releases": "https://apkvision.org/games/helltaker-128830/releases"
-      },
-      "downloads": [],
-      "stars": 5120,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "easy",
-        "minutes": 5,
-        "gameFiles": "none",
-        "requiredFiles": "Standalone pre-packaged APK",
-        "steps": [
-          "Download the APK from the project's releases page.",
-          "Install and open it — this build needs no game files."
-        ],
-        "confidence": "exact"
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:10+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "heretic-shadow-of-the-serpent-riders",
       "title": "Heretic: Shadow of the Serpent Riders",
       "originalTitle": "Heretic: Shadow of the Serpent Riders",
@@ -28325,73 +27950,6 @@
       }
     },
     {
-      "id": "kindergarten",
-      "title": "Kindergarten",
-      "originalTitle": "Kindergarten",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "ConMan Games / SmashGames",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Kindergarten is an abstract puzzle adventure game. You play as a student in a school that's a bit... off. The teacher is trying to get rid of her kids, the janitor is cleaning up blood, and kids are going missing.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "owned"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://images.launchbox-app.com/dbb7ca17-75da-4568-8462-6e955a7e1734.png",
-        "hero": "https://images.launchbox-app.com/dbb7ca17-75da-4568-8462-6e955a7e1734.png"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/kindergarten-128825",
-        "releases": "https://apkvision.org/games/kindergarten-128825/releases"
-      },
-      "downloads": [],
-      "stars": 2780,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Kindergarten",
-        "requiredFiles": "Kindergarten game files",
-        "steps": [
-          "Own a legal copy of Kindergarten (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Kindergarten game files",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Kindergarten"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Kindergarten"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:14+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "king-kong-recompiled",
       "title": "King Kong Recompiled",
       "originalTitle": "Peter Jackson's King Kong",
@@ -30737,73 +30295,6 @@
         "stars": 291,
         "pushedAt": "2026-10-27",
         "releaseTag": "v1.1.5"
-      }
-    },
-    {
-      "id": "madness-project-nexus",
-      "title": "MADNESS: Project Nexus",
-      "originalTitle": "MADNESS: Project Nexus",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Gibbing Tree / Krinkels",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "MADNESS: Project Nexus is a third-person Run n' Gun / Beat'Em Up action game set in the chaotic, bloody world of Madness Combat.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#B4342C",
-        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/488860/library_600x900.jpg",
-        "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/488860/library_600x900.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/madness-project-nexus-128810",
-        "releases": "https://apkvision.org/games/madness-project-nexus-128810/releases"
-      },
-      "downloads": [],
-      "stars": 2670,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "MADNESS: Project Nexus",
-        "requiredFiles": "Original MADNESS: Project Nexus game data",
-        "steps": [
-          "Own a legal copy of MADNESS: Project Nexus (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original MADNESS: Project Nexus game data",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=MADNESS%3A%20Project%20Nexus"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=MADNESS%3A%20Project%20Nexus"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:18+00:00",
-        "repoAlive": false,
-        "apk": false
       }
     },
     {
@@ -33930,73 +33421,6 @@
       }
     },
     {
-      "id": "midnight-club-3-dub-edition-remix",
-      "title": "Midnight Club 3: DUB Edition Remix",
-      "originalTitle": "Midnight Club 3: DUB Edition Remix",
-      "platforms": [
-        "xbox"
-      ],
-      "developer": "Rockstar Games / Community Port",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "Midnight Club 3: DUB Edition Remix takes open city racing to the extreme with licensed vehicles, immense customization options, and heart-pounding nitro speed.",
-      "tags": [
-        "xbox"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "9.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Midnight%20Club%203%20-%20DUB%20Edition%20Remix%20%28USA%29.png",
-        "hero": "https://thumbnails.libretro.com/Microsoft%20-%20Xbox/Named_Boxarts/Midnight%20Club%203%20-%20DUB%20Edition%20Remix%20%28USA%29.png"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/midnight-club-3-dub-edition-remix-134905",
-        "releases": "https://apkvision.org/games/midnight-club-3-dub-edition-remix-134905/releases"
-      },
-      "downloads": [],
-      "stars": 5420,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Midnight Club 3: DUB Edition Remix",
-        "requiredFiles": "Original MC3 Remix Disc Image",
-        "steps": [
-          "Own a legal copy of Midnight Club 3: DUB Edition Remix (XBOX) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original MC3 Remix Disc Image",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Midnight%20Club%203%3A%20DUB%20Edition%20Remix"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Midnight%20Club%203%3A%20DUB%20Edition%20Remix"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:22+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "might-and-magic-vi-viii",
       "title": "Might and Magic VI-VIII",
       "originalTitle": "Might and Magic VI-VIII",
@@ -35528,73 +34952,6 @@
           {
             "store": "GOG",
             "url": "https://www.gog.com/en/games?query=Mortal%20Kombat%20vs.%20DC%20Universe"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:24+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
-      "id": "mortal-kombat-armageddon",
-      "title": "Mortal Kombat: Armageddon",
-      "originalTitle": "Mortal Kombat: Armageddon",
-      "platforms": [
-        "ps2"
-      ],
-      "developer": "Midway / Community Port",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "Mortal Kombat: Armageddon is the ultimate chapter in the original Mortal Kombat series with every character that has ever appeared in the tournament.",
-      "tags": [
-        "ps2"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "9.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#FF6B9A",
-        "cover": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%202/Named_Boxarts/Mortal%20Kombat%20-%20Armageddon%20%28USA%29%20%28Premium%20Edition%29.png",
-        "hero": "https://thumbnails.libretro.com/Sony%20-%20PlayStation%202/Named_Boxarts/Mortal%20Kombat%20-%20Armageddon%20%28USA%29%20%28Premium%20Edition%29.png"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/mortal-kombat-armageddon-134898",
-        "releases": "https://apkvision.org/games/mortal-kombat-armageddon-134898/releases"
-      },
-      "downloads": [],
-      "stars": 3670,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Mortal Kombat: Armageddon",
-        "requiredFiles": "Original MK: Armageddon ISO Image",
-        "steps": [
-          "Own a legal copy of Mortal Kombat: Armageddon (PS2) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original MK: Armageddon ISO Image",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Mortal%20Kombat%3A%20Armageddon"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Mortal%20Kombat%3A%20Armageddon"
           }
         ]
       },
@@ -45126,73 +44483,6 @@
       }
     },
     {
-      "id": "prototype",
-      "title": "Prototype",
-      "originalTitle": "Prototype",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Radical Entertainment / DroidPorts",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "You are the Prototype, Alex Mercer, a man without memory armed with amazing shape-shifting abilities, hunting your way to the very heart of the conspiracy that created you.",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "9.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#7FA34A",
-        "cover": "https://images.launchbox-app.com/8cce3523-9bba-4e19-8266-cc6a50207489.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/10150/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/prototype-128790",
-        "releases": "https://apkvision.org/games/prototype-128790/releases"
-      },
-      "downloads": [],
-      "stars": 5210,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Prototype",
-        "requiredFiles": "Original Prototype (Xbox 360 / PC) files",
-        "steps": [
-          "Own a legal copy of Prototype (X360) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original Prototype (Xbox 360 / PC) files",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Prototype"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Prototype"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:36+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "psp-recomp-msae",
       "title": "PSP Recomp - MSAE",
       "originalTitle": "MotorStorm: Arctic Edge",
@@ -46655,59 +45945,6 @@
         "stars": 133,
         "pushedAt": "2026-09-28",
         "releaseTag": "v0.8.2"
-      }
-    },
-    {
-      "id": "rayman-mini",
-      "title": "Rayman Mini",
-      "originalTitle": "Rayman Mini",
-      "platforms": [
-        "apple_arcade"
-      ],
-      "developer": "Ubisoft / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Rayman Mini is an action platformer developed by Ubisoft Montpellier and Pastagames. Shrunk to the size of an ant by a wicked spell, Rayman runs, jumps, and glides across 48 lush macro-photographic levels to reverse the curse.",
-      "tags": [
-        "apple_arcade"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "none"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://apkvision.org/wp-content/uploads/2026/10/rayman_mini_icon.webp",
-        "hero": "https://apkvision.org/wp-content/uploads/2026/10/rayman_mini_icon.webp"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/rayman-mini-134900",
-        "releases": "https://apkvision.org/games/rayman-mini-134900/releases"
-      },
-      "downloads": [],
-      "stars": 1650,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "easy",
-        "minutes": 5,
-        "gameFiles": "none",
-        "requiredFiles": "Standalone pre-packaged APK with UbiArt macro assets",
-        "steps": [
-          "Download the APK from the project's releases page.",
-          "Install and open it — this build needs no game files."
-        ],
-        "confidence": "exact"
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:38+00:00",
-        "repoAlive": false,
-        "apk": false
       }
     },
     {
@@ -48649,73 +47886,6 @@
       }
     },
     {
-      "id": "risk-of-rain",
-      "title": "Risk of Rain",
-      "originalTitle": "Risk of Rain",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Hopoo Games / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Risk of Rain is an action platformer with roguelike elements. With permanent death as a primary feature, players must fight to survive on a hostile planet through procedural stages.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "unknown"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248820/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/248820/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/risk-of-rain-128818",
-        "releases": "https://apkvision.org/games/risk-of-rain-128818/releases"
-      },
-      "downloads": [],
-      "stars": 3490,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Risk of Rain",
-        "requiredFiles": "Original Risk of Rain game data",
-        "steps": [
-          "Own a legal copy of Risk of Rain (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original Risk of Rain game data",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Risk%20of%20Rain"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Risk%20of%20Rain"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:40+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "rival-schools-evolution-disc",
       "title": "Rival Schools: Evolution Disc",
       "portType": "unknown",
@@ -49253,73 +48423,6 @@
         "stars": 46,
         "pushedAt": "2026-10-06",
         "releaseTag": "v.1.0.1"
-      }
-    },
-    {
-      "id": "rogue-legacy",
-      "title": "Rogue Legacy",
-      "originalTitle": "Rogue Legacy",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Cellar Door Games / Community Port",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Rogue Legacy is a genealogical rogue-lite where every time you die, your unique child succeeds you. Upgrade your castle and give your heirs a better chance.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "owned"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/241600/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/rogue-legacy-128812",
-        "releases": "https://apkvision.org/games/rogue-legacy-128812/releases"
-      },
-      "downloads": [],
-      "stars": 3940,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Rogue Legacy",
-        "requiredFiles": "Rogue Legacy PC game files",
-        "steps": [
-          "Own a legal copy of Rogue Legacy (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Rogue Legacy PC game files",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Rogue%20Legacy"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Rogue%20Legacy"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:56:41+00:00",
-        "repoAlive": false,
-        "apk": false
       }
     },
     {
@@ -66541,73 +65644,6 @@
       }
     },
     {
-      "id": "unreal-tournament-2004",
-      "title": "Unreal Tournament 2004",
-      "originalTitle": "Unreal Tournament 2004",
-      "platforms": [
-        "pc_classic"
-      ],
-      "developer": "Epic Games / OldUnreal",
-      "portType": "source-port",
-      "status": "stable",
-      "description": "Unreal Tournament 2004 is a multiplayer first-person shooter that combines the kill-or-be-killed experience of gladiatorial combat with cutting-edge technology.",
-      "tags": [
-        "pc_classic"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "8.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "owned"
-      },
-      "artwork": {
-        "accent": "#B08CFF",
-        "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13230/library_600x900_2x.jpg",
-        "hero": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/13230/header.jpg"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/unreal-tournament-2004-128795",
-        "releases": "https://apkvision.org/games/unreal-tournament-2004-128795/releases"
-      },
-      "downloads": [],
-      "stars": 4320,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "Unreal Tournament 2004",
-        "requiredFiles": "Original UT2004 PC game files",
-        "steps": [
-          "Own a legal copy of Unreal Tournament 2004 (pc_classic) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original UT2004 PC game files",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=Unreal%20Tournament%202004"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=Unreal%20Tournament%202004"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:57:03+00:00",
-        "repoAlive": false,
-        "apk": false
-      }
-    },
-    {
       "id": "uqm-megamod-star-control-ii",
       "title": "UQM MegaMod (Star Control II)",
       "originalTitle": "Star Control II",
@@ -69197,73 +68233,6 @@
         "stars": 31,
         "pushedAt": "2026-10-25",
         "releaseTag": "v1.0.11"
-      }
-    },
-    {
-      "id": "wwe-2k14",
-      "title": "WWE 2K14",
-      "originalTitle": "WWE 2K14",
-      "platforms": [
-        "x360"
-      ],
-      "developer": "Yuke's / Community Port",
-      "portType": "recompilation",
-      "status": "stable",
-      "description": "WWE 2K14 features the definitive 30 Years of WrestleMania single-player campaign, letting players relive legendary matches from Hulk Hogan to The Rock and Undertaker's streak.",
-      "tags": [
-        "x360"
-      ],
-      "android": {
-        "supported": true,
-        "minAndroid": "9.0",
-        "abis": [
-          "arm64-v8a"
-        ],
-        "requiresGameFiles": "owned"
-      },
-      "artwork": {
-        "accent": "#4ADEDE",
-        "cover": "https://images.launchbox-app.com//d0ec438c-6e93-448f-ba08-836d57a2608c.png",
-        "hero": "https://images.launchbox-app.com//d0ec438c-6e93-448f-ba08-836d57a2608c.png"
-      },
-      "links": {
-        "repo": "https://apkvision.org/games/wwe-2k14-134912",
-        "releases": "https://apkvision.org/games/wwe-2k14-134912/releases"
-      },
-      "downloads": [],
-      "stars": 2890,
-      "sources": [
-        "droid-recomp"
-      ],
-      "setup": {
-        "difficulty": "medium",
-        "minutes": 12,
-        "gameFiles": "owned",
-        "mustOwn": "WWE 2K14",
-        "requiredFiles": "Original WWE 2K14 ISO / game files",
-        "steps": [
-          "Own a legal copy of WWE 2K14 (X360) — buy it, rip your disc, or use files you already own. The port ships no game data.",
-          "Download the port's APK from its releases page and install it.",
-          "Prepare these files: Original WWE 2K14 ISO / game files",
-          "Copy them into the folder the app asks for on first launch (usually Android/data/<package>/files).",
-          "Open the app, point it at that folder if prompted, and play."
-        ],
-        "confidence": "exact",
-        "buy": [
-          {
-            "store": "Steam",
-            "url": "https://store.steampowered.com/search/?term=WWE%202K14"
-          },
-          {
-            "store": "GOG",
-            "url": "https://www.gog.com/en/games?query=WWE%202K14"
-          }
-        ]
-      },
-      "verified": {
-        "at": "2026-10-31T13:57:06+00:00",
-        "repoAlive": false,
-        "apk": false
       }
     },
     {
